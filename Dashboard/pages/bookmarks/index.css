@@ -1,0 +1,13 @@
+
+#bookmarksPage .content .buttonList div:first-child {
+  min-width: 44px;
+  background-color: rgba(0, 0, 0, 0.02);
+}
+#bookmarksPage .content .buttonList p {
+  padding-left: 10px;
+  white-space: nowrap;
+}
+#bookmarksPage .content .buttonList p:nth-of-type(2) {
+  opacity: .2;
+  color: #000;
+}

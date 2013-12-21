@@ -1,0 +1,55 @@
+/*#keepPage .card.default { background-color: rgb(255, 255, 255) }
+#keepPage .card.red { background-color: rgb(247, 132, 106) }
+#keepPage .card.orange { background-color: rgb(255, 201, 78) }
+#keepPage .card.yellow { background-color: rgb(241, 241, 78) }
+#keepPage .card.green { background-color: rgb(201, 234, 93) }
+#keepPage .card.teal { background-color: rgb(146, 228, 201) }
+#keepPage .card.blue { background-color: rgb(133, 214, 228) }
+#keepPage .card.grey { background-color: rgb(196, 209, 209) }*/
+
+#keepPage .card.default { border-color: rgb(255, 255, 255) }
+#keepPage .card.red { border-color: rgb(247, 132, 106) }
+#keepPage .card.orange { border-color: rgb(255, 201, 78) }
+#keepPage .card.yellow { border-color: rgb(241, 241, 78) }
+#keepPage .card.green { border-color: rgb(201, 234, 93) }
+#keepPage .card.teal { border-color: rgb(146, 228, 201) }
+#keepPage .card.blue { border-color: rgb(133, 214, 228) }
+#keepPage .card.grey, #keepPage .card.gray { border-color: rgb(196, 209, 209) }
+
+
+#keepPage .card {
+  min-height: 34px;
+  border-top: 3px solid transparent;
+}
+#keepPage .card section {
+  color: #666;
+}
+#keepPage .card section.checkbox {
+  background-image: url(data:image/svg+xml;base64,PD94bWwgdmVyc2lvbj0iMS4wIiBlbmNvZGluZz0iVVRGLTgiIHN0YW5kYWxvbmU9Im5vIj8+CjwhLS0gR2VuZXJhdG9yOiBBZG9iZSBJbGx1c3RyYXRvciAxNi4wLjAsIFNWRyBFeHBvcnQgUGx1Zy1JbiAuIFNWRyBWZXJzaW9uOiA2LjAwIEJ1aWxkIDApICAtLT4KPCFET0NUWVBFIHN2ZyAgUFVCTElDICctLy9XM0MvL0RURCBTVkcgMS4xLy9FTicgICdodHRwOi8vd3d3LnczLm9yZy9HcmFwaGljcy9TVkcvMS4xL0RURC9zdmcxMS5kdGQnPgo8c3ZnIGlkPSJMYXllcl8xIiB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHhtbDpzcGFjZT0icHJlc2VydmUiIGhlaWdodD0iMTVweCIgdmlld0JveD0iMCAwIDE4LjAyMSAxNSIgd2lkdGg9IjE4LjAyMXB4IiB2ZXJzaW9uPSIxLjEiIHk9IjBweCIgeD0iMHB4IiB4bWxuczp4bGluaz0iaHR0cDovL3d3dy53My5vcmcvMTk5OS94bGluayIgZW5hYmxlLWJhY2tncm91bmQ9Im5ldyAwIDAgMTguMDIxIDE1Ij4KICA8cGF0aCBkPSJtMTMgMWMwLjU1MiAwIDEgMC40NDkgMSAxdjExYzAgMC41NTItMC40NDggMS0xIDFoLTExYy0wLjU1MSAwLTEtMC40NDgtMS0xdi0xMWMwLTAuNTUxIDAuNDQ5LTEgMS0xaDExbTAtMWgtMTFjLTEuMTA0IDAtMiAwLjg5Ni0yIDJ2MTFjMCAxLjEwNCAwLjg5NiAyIDIgMmgxMWMxLjEwNCAwIDItMC44OTYgMi0ydi0xMWMwLTEuMTA0LTAuODk2LTItMi0yeiIvPgo8L3N2Zz4K);
+  background-repeat: no-repeat;
+  background-position: 14px center;
+  padding-left: 42px;
+  opacity: .6;
+  color: #000;
+}
+#keepPage .card section.checkbox.checked {
+  background-image: url(data:image/svg+xml;base64,PD94bWwgdmVyc2lvbj0iMS4wIiBlbmNvZGluZz0iVVRGLTgiIHN0YW5kYWxvbmU9Im5vIj8+CjwhLS0gR2VuZXJhdG9yOiBBZG9iZSBJbGx1c3RyYXRvciAxNi4wLjAsIFNWRyBFeHBvcnQgUGx1Zy1JbiAuIFNWRyBWZXJzaW9uOiA2LjAwIEJ1aWxkIDApICAtLT4KPCFET0NUWVBFIHN2ZyAgUFVCTElDICctLy9XM0MvL0RURCBTVkcgMS4xLy9FTicgICdodHRwOi8vd3d3LnczLm9yZy9HcmFwaGljcy9TVkcvMS4xL0RURC9zdmcxMS5kdGQnPgo8c3ZnIGlkPSJMYXllcl8xIiB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHhtbDpzcGFjZT0icHJlc2VydmUiIGhlaWdodD0iMTVweCIgdmlld0JveD0iMCAwIDE4LjAyMSAxNSIgd2lkdGg9IjE4LjAyMXB4IiB2ZXJzaW9uPSIxLjEiIHk9IjBweCIgeD0iMHB4IiB4bWxuczp4bGluaz0iaHR0cDovL3d3dy53My5vcmcvMTk5OS94bGluayIgZW5hYmxlLWJhY2tncm91bmQ9Im5ldyAwIDAgMTguMDIxIDE1Ij4KICA8cG9seWdvbiBwb2ludHM9IjE1LjYwNSAwLjUxNSA3Ljk0OSA4LjE3MSA0LjQxNCA0LjYzNiAyIDcuMDUgNS41MzUgMTAuNTg1IDUuNTM1IDEwLjU4NSA3Ljk0OSAxMyAxOC4wMjEgMi45MjkiLz4KPC9zdmc+Cg==);
+  text-decoration: line-through;
+  opacity: .3;
+}
+#keepPage .content[data-color="default"] .card:not(.default),
+#keepPage .content[data-color="red"] .card:not(.red),
+#keepPage .content[data-color="orange"] .card:not(.orange),
+#keepPage .content[data-color="yellow"] .card:not(.yellow),
+#keepPage .content[data-color="green"] .card:not(.green),
+#keepPage .content[data-color="teal"] .card:not(.teal),
+#keepPage .content[data-color="blue"] .card:not(.blue),
+#keepPage .content[data-color="grey"] .card:not(.grey){
+  display: none;
+}
+#keepPage .content[data-collection="home"] .card.archived,
+#keepPage .content:not([data-collection]) .card.archived,
+#keepPage .content[data-collection="archive"] .card:not(.archived),
+#keepPage .content[data-collection="reminders"] .card:not(.reminder) {
+  display: none;
+}

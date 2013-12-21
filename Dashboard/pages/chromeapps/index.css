@@ -1,0 +1,8 @@
+#chromeappsPage .popupFrame {
+  padding-top: 130px;
+  padding-bottom: 130px;
+}
+#chromeappsPage .buttonList img {
+  max-height: 32px;
+  max-width: 32px;
+}

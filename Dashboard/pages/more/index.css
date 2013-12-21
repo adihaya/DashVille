@@ -1,0 +1,43 @@
+#morePage .content .buttonList.cardButtonList li {
+  background-color: #FFF;  
+  margin: 10px 0px 0px 12px;
+  font-family: roboto, arial, sans-serif;  
+  box-shadow: rgba(0, 0, 0, 0.0980392) 0px 2px 1px;
+  float: left;
+  width: 184px;
+  width: -webkit-calc(50% - 17px);
+  width: calc(50% - 17px);
+  border: none;
+  cursor: -webkit-grab;
+  position: relative;
+}
+#morePage .content .buttonList.cardButtonList {
+  padding-left: 1px;
+  padding-right: 1px;
+  box-sizing: border-box;
+}
+#morePage .content .buttonList li.off {
+  display: none;
+}/*
+#mainWindow[data-service="more"] .openInPanel {
+  display: none;
+}*/
+#morePage .cardHeader.off {
+  display: none;
+}
+#morePage .content .buttonList.cardButtonList li::before {
+  height: 30px;
+  width: 30px;
+  background-image: url("/images/grip.png");
+  position: absolute;
+  left: -12px;
+  top: 6px;
+  content: "";
+  pointer-events: none;
+}
+#moreHeader div:last-child img {
+  cursor: pointer;
+  float: right;
+  margin-right: 7px;
+  pointer-events: all;
+}

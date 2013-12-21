@@ -1,0 +1,36 @@
+#gplusPage .content>* {
+  display: none;
+}
+#gplusPage .content>*.on {
+  display: block;
+}
+#gplusPage .comments {
+  font-family: arial,sans-serif;
+  text-align: center;
+  overflow-x: hidden;
+}
+#gplusPage .linksSection[data-state="link"] .buttonList li:not([data-link]),
+#gplusPage .linksSection[data-state="search"] .buttonList li:not([data-search]) {
+  display: none;
+}
+#gplusPage .commentsPage, .commentsError {
+  display: none;
+}
+#gplusPage .commentsPage.on, .commentsError.on {
+  display: block;
+}
+#gplusPage .comments>div {
+  height: 100% !important;
+  width: 100% !important;
+}
+#gplusPage .comments>div>iframe {
+  width: 100% !important;
+  height: 100% !important;
+  pointer-events: all;
+}
+#gplusPage>div:not([class]):not([id]) {
+  display: none !important;
+}
+#gplusPage .content>div, .content>iframe {
+  height: 100%;
+}

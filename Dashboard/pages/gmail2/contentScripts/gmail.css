@@ -1,0 +1,140 @@
+
+/* body */
+body {
+  /* change visibility of the body to visible, so the gadget will be displayed */
+  visibility: visible !important;
+}
+
+/* googlebar */
+#gb, #nav {
+  /* hide the google bar */
+  display: none !important;
+}
+
+/* loading transition elements */
+#apploadingdiv, #viewsloadingdiv  {
+  /* disable loading transition */
+  display: none !important;
+}
+
+
+/* bottom navbar */
+#tltbb {
+  /* hide the account chooser, because it is also available in the main menu */
+  display: none !important;
+}
+
+/* hide searchbox */
+#tl_ form {
+  display: none !important;
+}
+
+/* navbars */
+
+#cv__cntbt, #lbttb, #mutbt, #cvtbt, #tltbt {
+  background: #fff !important;
+  border-bottom: 1px solid #E5E5E5 !important;
+  position: fixed !important;
+  top: 0px !important;
+  border-image: none !important;
+  -webkit-border-image: none !important;
+}
+
+/* contents */
+
+#cv_>div:nth-child(2), #mn_>div:nth-child(2), #co_>div:first-child {
+  position: fixed !important;
+  top: 44px !important;
+  width: 100% !important;
+  height: calc(100% - 44px) !important;
+  overflow-y: auto !important;
+  box-sizing: border-box !important;
+  background: #e5e5e5 !important;
+}
+
+#tl_>div:first-child>div:first-child {
+  padding-top: 44px !important;
+  background: #e5e5e5 !important;
+}
+#tl_ div[id] {
+  background: #FFF;
+  margin: 12px !important;
+  margin-bottom: 0px !important;
+  box-shadow: rgba(0, 0, 0, 0.08) 0px 2px 1px;
+  font-family: roboto, arial, sans-serif;
+  width: -webkit-calc(100% - 24px);
+  width: calc(100% - 24px);
+  float: left;
+  position: relative;
+  border-radius: 1px;
+  box-sizing: border-box;
+}
+
+/* change scrollbars */
+::-webkit-scrollbar {
+  height: 16px;
+  width: 12px;
+}
+::-webkit-scrollbar-button {
+  height: 0;
+  width: 0;
+}
+::-webkit-scrollbar-button:start:decrement,::-webkit-scrollbar-button:end:increment {
+  display: block;
+}
+::-webkit-scrollbar-button:vertical:start:increment,::-webkit-scrollbar-button:vertical:end:decrement {
+  display: none;
+}
+::-webkit-scrollbar-track:vertical,::-webkit-scrollbar-track:horizontal,::-webkit-scrollbar-thumb:vertical,::-webkit-scrollbar-thumb:horizontal,::-webkit-scrollbar-track:vertical, ::-webkit-scrollbar-track:horizontal, ::-webkit-scrollbar-thumb:vertical, ::-webkit-scrollbar-thumb:horizontal {
+  border-style: solid;
+  border-color: transparent;
+}
+::-webkit-scrollbar-thumb {
+  -webkit-box-shadow: inset 1px 1px 0 rgba(0,0,0,.1),inset 0 -1px 0 rgba(0,0,0,.07);
+  background-clip: padding-box;
+  background-color: rgba(0,0,0,.2);
+  min-height: 28px;
+  padding-top: 100px;
+}
+::-webkit-scrollbar-thumb:hover {
+  -webkit-box-shadow: inset 1px 1px 1px rgba(0,0,0,.25);
+  background-color: rgba(0,0,0,.4);
+}
+::-webkit-scrollbar-thumb:active {
+  -webkit-box-shadow: inset 1px 1px 3px rgba(0,0,0,.35);
+  background-color: rgba(0,0,0,.5);
+}
+::-webkit-scrollbar-thumb:vertical {
+  border-width: 0;
+  border-left-width: 0px;
+}
+::-webkit-scrollbar-thumb:horizontal {
+  border-width: 0;
+  border-top-width: 5px;
+}
+::-webkit-scrollbar-track:vertical {
+  border-left-width: 1px;
+  border-right-width: 1px;
+}
+::-webkit-scrollbar-track:horizontal {
+  border-bottom: 1px;
+  border-top: 6px;
+}
+::-webkit-scrollbar-thumb:vertical {
+  border-width: 0;
+  border-left-width: 1px;
+  border-right-width: 1px;
+}
+::-webkit-scrollbar-thumb:horizontal {
+  border-width: 0;
+  border-bottom: 1px;
+  border-top: 6px;
+}
+::-webkit-scrollbar-track:hover {
+  -webkit-box-shadow: inset 1px 0 0 rgba(0,0,0,.1);
+  background-color: rgba(0,0,0,.05);
+}
+::-webkit-scrollbar-track:active {
+  -webkit-box-shadow: inset 1px 0 0 rgba(0,0,0,.14),inset -1px -1px 0 rgba(0,0,0,.07);
+  background-color: rgba(0,0,0,.05);
+}

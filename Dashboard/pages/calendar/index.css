@@ -1,0 +1,35 @@
+#calendarPage .iframeTasks {
+  background-color: white;
+  height: 395px;
+}
+#calendarPage .linksSection .headerButton>span:first-child {
+  left: 0;
+}
+
+/*
+#calendarPage .linksSection:hover {
+max-height: 485px;
+}
+#calendarPage .iframeTasks {
+height: calc(100% - 43px);
+}
+#calendarPage linksSection:hover .headerButton {
+background-color: yellow;
+}
+#calendarPage .linksSection:hover .headerButton {
+background-color: #ffc325 !important;
+border-bottom: 2px solid rgba(0, 0, 0, 0.21);
+box-sizing: border-box;
+height: 44px;
+}
+#calendarPage .linksSection .headerButton {
+transition: background-color 1s,border-bottom 1s;
+}
+#calendarPage .linksSection .headerButton>span:first-child {
+background-image: url(/images/32/tasks-32.png);
+transition: background-image 1s;
+}
+#calendarPage .linksSection:hover .headerButton>span:first-child {
+background-image: url(/images/32/tasks-w32.png);
+}
+*/

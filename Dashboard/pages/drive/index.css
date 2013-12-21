@@ -1,0 +1,46 @@
+#drivePage #fileListContainer {
+  height: 100%;
+  margin-top: -44px;
+  padding-top: 44px;
+  box-sizing: border-box;
+}
+#drivePage #fileListSubContainer {
+  height: 100%;
+  padding-bottom: 43px;
+  box-sizing: border-box;
+}
+#drivePage .content .buttonList div:first-child {
+  min-width: 44px;
+  background-color: rgba(0, 0, 0, 0.02);
+}
+#drivePage .content .buttonList p {
+  padding-left: 10px;
+  white-space: nowrap;
+}
+#drivePage .content .buttonList p:nth-of-type(2) {
+  opacity: .2;
+  color: #000;
+}
+#drivePage .inactive {
+  display: none !important;
+}
+#drivePage #uploadFileName {
+  padding: 8px;
+}
+#drivePage .toolbar {
+  overflow-y: hidden;
+}
+#drivePage .buttonList div {
+  pointer-events: all;
+}
+#drivePage .content .toolbar {
+  display: block;
+  height: 44px;
+}
+#drivePage .content {
+  background-color: #f5f5f5;
+}
+/*
+#drivePage .content .toolbar {
+background-color: transparent;
+}*/

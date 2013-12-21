@@ -1,0 +1,246 @@
+#mainWindow {
+  width: 418px;
+  width: -webkit-calc(100% - 192px);
+  width: calc(100% - 192px);
+  height: 100%;
+  position: relative;
+  overflow: hidden;
+}
+#mainWindow>iframe {
+  height: 440px;
+  height: -webkit-calc(100% - 44px);
+  height: calc(100% - 44px);
+  display: none;
+  width: 100%;
+}
+#mainWindow>div {
+  height: 440px;
+  height: -webkit-calc(100% - 44px);
+  height: calc(100% - 44px);
+  display: none;
+}
+iframe, body {
+  border-style: none;
+  margin: 0;
+  padding: 0;
+}
+body {
+  background-color: #E5E5E5;
+  overflow: hidden;
+}
+body:not(.bmInPanel){
+  min-height: 484px;
+  height: 100%;
+  min-width: 610px;
+  width: 100%;
+}
+body:not(.bmInPanel) #mainMenu,body:not(.bmInPanel) #mainMenu li:first-child,.panelHeader {
+  border-top-right-radius: 4px;
+}
+body:not(.bmInPanel) #mainMenu, body:not(.bmInPanel) #mainMenu li:last-child {
+  border-bottom-right-radius: 4px;
+}
+body:not(.bmInPanel) div:not(#pagePopup) header {
+  border-top-left-radius: 4px;
+}
+.bmInPanel {
+  border-top: 1px solid #DEDEDE;	
+  position: fixed;
+  height: 100%;
+}
+.openInPanel {
+  cursor: pointer;
+  float: right;
+  margin-right: 7px;
+  pointer-events: all;
+}
+#mainMenu {
+  float: right;
+  width: 192px;
+  background-color: #E8E8E8;
+  position: relative;
+  z-index: 9999999999999999;
+  overflow: auto;
+  height: 100%;
+}
+.buttonList li p::after {
+  content: attr(data-text-after);
+}
+#mainMenu li {
+  border-bottom-color: #686868;
+  background-color: #2d2d2d;
+  border-top: 2px solid transparent;
+  position: relative;
+}
+#mainMenu>li:not(#more)>div {
+  position: relative;
+  top: -2px;
+}
+#mainMenu li:hover {
+  background-color: #4C4C4C;
+}
+#mainMenu p {
+  color: #fff;
+}
+#mainMenu li:not(#more)::before {
+  height: 30px;
+  width: 30px;
+  background-image: url("images/grip.png");
+  position: absolute;
+  left: -12px;
+  top: 6px;
+  content: "";
+  display: none;
+}
+#mainMenu li:hover:not(#more)::before {
+  display: block;
+}
+#mainMenu>li.dragBorderTop {
+  border-top-color: rgb(255, 163, 0);
+}
+
+#mainMenu #more {
+  position: absolute;
+  bottom: 0px;
+  box-sizing: content-box;
+  height: 42px;
+  border-top: 2px solid rgba(0, 0, 0, 0);
+}
+.buttonList span.moreDot {
+  background-color: #d0d0d0;
+  border-color: #bbb;
+  -webkit-border-radius: 4px;
+  border-radius: 4px;
+  border-style: solid;
+  border-width: 1px;
+  height: 4px;
+  position: absolute;
+  width: 4px;
+  top: 11px;
+  margin-top: 6px;
+  margin-left: 16px;
+}
+#dotA {
+  left: 2px;
+}
+#dotB {
+  left: 12px;
+}
+#dotC {
+  left: 22px;
+}
+
+
+/* header */
+
+
+#mainWindow>header {
+  height: 44px;
+  box-sizing: border-box;
+  border-bottom: 2px solid rgba(0, 0, 0, 0.21);
+  -webkit-user-select: none;
+  -moz-user-select: none;
+  display: block;
+  background-color: #fff;
+  text-decoration: none;
+  width: 100%;
+  background-color: #7A7A7A;
+  display: none;
+}
+#mainWindow>header div {
+  pointer-events: none;
+  height: inherit;
+  box-sizing: border-box;
+  vertical-align: middle;
+  overflow: hidden;
+  margin: 0;
+  width: 100%;
+  display: table-cell;
+}
+#mainWindow>header div:first-child {
+  width: 64px;
+  min-width: 64px;
+  text-align: center;
+}
+#mainWindow>header span {
+  background-image: url(images/sprite-32.png);
+  width: 32px;
+  height: 32px;
+  display: inline-block;
+}
+#mainWindow>header p {
+  font: 500 13px Roboto,arial,sans-serif;
+  color: #fff;
+  width: 100%;
+  box-sizing: border-box;
+  margin: 0;
+  padding: 0;
+  height: auto;
+  max-height: inherit;
+  float: none;
+}
+
+#chromeappsHeader {background-color: #ec7a46 !important;}
+#gplusHeader {background-color: rgb(221,75,57) !important;}
+#searchHeader {background-color: rgb(66,133,244) !important;}
+#translateHeader {background-color: #299aaf !important;}
+#mapsHeader {background-color: #0daa61 !important;}
+#playHeader {background-color: #86be57 !important;}
+#youtubeHeader {background-color: rgb(197,44,49) !important;}
+#newsHeader {background-color: #f5a649 !important;}
+#gmailHeader {background-color: #ae6280 !important;}
+#driveHeader, #tasksHeader, #keepHeader {background-color: #ffc325 !important;}
+#calendarHeader {background-color: #7976bf !important;}
+#urlshortenerHeader {background-color: rgb(88, 180, 114) !important;}
+#booksHeader {background-color: rgb(146, 97, 59) !important;}
+#shortcutsHeader {background-color: rgb(119, 119, 119) !important;}
+#offersHeader {background-color: rgb(53, 91, 160) !important;}
+#trendsHeader {background-color: rgb(248, 149, 0) !important;}
+#sitesHeader, #bookmarksHeader {background: rgb(13, 170, 231) !important;}
+
+html.searchPage #mainWindow #searchPage, html.searchPage #mainWindow #searchHeader,
+html.scholarPage #mainWindow #scholarPage, html.scholarPage #mainWindow #scholarHeader,
+html.keepPage #mainWindow #keepPage, html.keepPage #mainWindow #keepHeader,
+html.gplusPage #mainWindow #gplusPage, html.gplusPage #mainWindow #gplusHeader,
+html.translatePage #mainWindow #translatePage, html.translatePage #mainWindow #translateHeader,
+html.mapsPage #mainWindow #mapsPage, html.mapsPage #mainWindow #mapsHeader,
+html.playPage #mainWindow #playPage, html.playPage #mainWindow #playHeader,
+html.youtubePage #mainWindow #youtubePage, html.youtubePage #mainWindow #youtubeHeader,
+html.newsPage #mainWindow #newsPage, html.newsPage #mainWindow #newsHeader,
+html.gmailPage #mainWindow #gmailPage, html.gmailPage #mainWindow #gmailHeader,
+html.drivePage #mainWindow #drivePage, html.drivePage #mainWindow #driveHeader,
+html.calendarPage #mainWindow #calendarPage, html.calendarPage #mainWindow #calendarHeader,
+html.offersPage #mainWindow #offersPage, html.offersPage #mainWindow #offersHeader,
+html.chromeappsPage #mainWindow #chromeappsPage, html.chromeappsPage #mainWindow #chromeappsHeader,
+html.urlshortenerPage #mainWindow #urlshortenerPage, html.urlshortenerPage #mainWindow #urlshortenerHeader,
+html.booksPage #mainWindow #booksPage, html.booksPage #mainWindow #booksHeader,
+html.trendsPage #mainWindow #trendsPage, html.trendsPage #mainWindow #trendsHeader,
+html.sitesPage #mainWindow #sitesPage, html.sitesPage #mainWindow #sitesHeader,
+html.tasksPage #mainWindow #tasksPage, html.tasksPage #mainWindow #tasksHeader,
+html.bookmarksPage #mainWindow #bookmarksPage, html.bookmarksPage #mainWindow #bookmarksHeader,
+html.morePage #mainWindow #morePage, html.morePage #mainWindow #moreHeader {
+  display: block;
+}
+html.scholarPage #mainMenu:not(:hover) #scholar,
+html.keepPage #mainMenu:not(:hover) #keep,
+html.searchPage #mainMenu:not(:hover) #search,
+html.gplusPage #mainMenu:not(:hover) #gplus,
+html.translatePage #mainMenu:not(:hover) #translate,
+html.mapsPage #mainMenu:not(:hover) #maps,
+html.playPage #mainMenu:not(:hover) #play,
+html.youtubePage #mainMenu:not(:hover) #youtube,
+html.newsPage #mainMenu:not(:hover) #news,
+html.gmailPage #mainMenu:not(:hover) #gmail,
+html.drivePage #mainMenu:not(:hover) #drive,
+html.calendarPage #mainMenu:not(:hover) #calendar,
+html.offersPage #mainMenu:not(:hover) #offers,
+html.chromeappsPage #mainMenu:not(:hover) #chromeapps,
+html.urlshortenerPage #mainMenu:not(:hover) #urlshortener,
+html.booksPage #mainMenu:not(:hover) #books,
+html.trendsPage #mainMenu:not(:hover) #trends,
+html.sitesPage #mainMenu:not(:hover) #sites,
+html.tasksPage #mainMenu:not(:hover) #tasks,
+html.bookmarksPage #mainMenu:not(:hover) #bookmarks,
+html.morePage #mainMenu:not(:hover) #more {
+  background-color: #4C4C4C; 
+}

@@ -1,0 +1,834 @@
+{
+   "chromeLangLocation": {
+      "description": "The main location where this language is used",
+      "message": "Amsterdam"
+   },
+   "extDescription": {
+      "description": "Extension Description",
+      "message": "The one menu to access all your prefered google services with a single click."
+   },
+   "msg0": {
+      "description": "Main Menu --> Search",
+      "message": "Zoeken"
+   },
+   "msg1": {
+      "description": "Main Menu --> Google+",
+      "message": "Google+"
+   },
+   "msg10": {
+      "description": "Main Menu --> More",
+      "message": "Meer"
+   },
+   "msg100": {
+      "description": "Drive Menu --> My Drive",
+      "message": "Mijn Drive"
+   },
+   "msg101": {
+      "description": "Drive Menu --> Shared with me",
+      "message": "Gedeeld met mij"
+   },
+   "msg102": {
+      "description": "Drive Menu --> Starred",
+      "message": "Met ster"
+   },
+   "msg103": {
+      "description": "Drive Menu --> Recent",
+      "message": "Recent"
+   },
+   "msg104": {
+      "description": "Drive Menu --> Activity",
+      "message": "Activiteit"
+   },
+   "msg105": {
+      "description": "Drive Menu --> All items",
+      "message": "Alle items"
+   },
+   "msg106": {
+      "description": "Drive Menu --> Trash",
+      "message": "Prullenbak"
+   },
+   "msg107": {
+      "description": "Drive Menu --> Templates",
+      "message": "Sjablonen"
+   },
+   "msg108": {
+      "description": "Calendar Menu --> Calendar",
+      "message": "Agenda"
+   },
+   "msg109": {
+      "description": "Calendar Menu --> Tasks",
+      "message": "Taken"
+   },
+   "msg11": {
+      "description": "Search Menu --> Google Search",
+      "message": "Google Zoeken"
+   },
+   "msg110": {
+      "description": "More Menu --> Adsense",
+      "message": "Adsense"
+   },
+   "msg111": {
+      "description": "More Menu --> Alerts",
+      "message": "Alerts"
+   },
+   "msg112": {
+      "description": "More Menu --> App Engine",
+      "message": "App Engine"
+   },
+   "msg113": {
+      "description": "More Menu --> Chrome Web Store",
+      "message": "Chrome Web Store"
+   },
+   "msg114": {
+      "description": "More Menu --> Developers",
+      "message": "Developers"
+   },
+   "msg115": {
+      "description": "More Menu --> Offers",
+      "message": "Offers"
+   },
+   "msg116": {
+      "description": "More Menu --> Scholar",
+      "message": "Scholar"
+   },
+   "msg117": {
+      "description": "More Menu --> Url Shortener",
+      "message": "Url Shortener"
+   },
+   "msg118": {
+      "description": "More Menu --> Wallet",
+      "message": "Wallet"
+   },
+   "msg119": {
+      "description": "More Menu --> Dashboard",
+      "message": "Dashboard"
+   },
+   "msg12": {
+      "description": "Search Menu --> Web",
+      "message": "Web"
+   },
+   "msg120": {
+      "description": "More Menu --> Adwords",
+      "message": "Adwords"
+   },
+   "msg121": {
+      "description": "More Menu --> Analytics",
+      "message": "Analytics"
+   },
+   "msg122": {
+      "description": "More Menu --> Blogger",
+      "message": "Blogger"
+   },
+   "msg123": {
+      "description": "More Menu --> Groups",
+      "message": "Discussiegroepen"
+   },
+   "msg124": {
+      "description": "More Menu --> Finance",
+      "message": "Finance"
+   },
+   "msg125": {
+      "description": "More Menu --> Picasa",
+      "message": "Picasa"
+   },
+   "msg126": {
+      "description": "More Menu --> Sites",
+      "message": "Sites"
+   },
+   "msg127": {
+      "description": "More Menu --> Voice",
+      "message": "Voice"
+   },
+   "msg128": {
+      "description": "More Menu --> Webmaster Tools",
+      "message": "Webmaster Tools"
+   },
+   "msg129": {
+      "description": "More Menu --> Google Settings",
+      "message": "Google Instellingen"
+   },
+   "msg13": {
+      "description": "Search Menu --> Videos",
+      "message": "Video's"
+   },
+   "msg130": {
+      "description": "More Menu --> About",
+      "message": "Over"
+   },
+   "msg131": {
+      "description": "About Menu --> About",
+      "message": "Over"
+   },
+   "msg132": {
+      "description": "About Menu --> thanks for installing this extension!",
+      "message": "Bedankt voor het installeren van deze extensie!"
+   },
+   "msg133": {
+      "description": "About Menu --> Links",
+      "message": "Links"
+   },
+   "msg134": {
+      "description": "About Menu --> Donate",
+      "message": "Doneren"
+   },
+   "msg135": {
+      "description": "About Menu --> Rate & review",
+      "message": "Beoordeleel & review"
+   },
+   "msg136": {
+      "description": "About Menu --> Give feedback",
+      "message": "Geef feedback"
+   },
+   "msg137": {
+      "description": "About Menu --> Contact me",
+      "message": "Neem contact op"
+   },
+   "msg138": {
+      "description": "About Menu --> Email",
+      "message": "Email"
+   },
+   "msg139": {
+      "description": "About Menu --> Google+",
+      "message": "Google+"
+   },
+   "msg14": {
+      "description": "Search Menu --> Shopping",
+      "message": "Shopping"
+   },
+   "msg140": {
+      "description": "About Menu --> Thanks to",
+      "message": "Met dank aan"
+   },
+   "msg141": {
+      "description": "About Menu --> The google icons in this extension are copyrighted by google",
+      "message": "De google pictogrammen in deze extensie zijn auteursrechtelijk beschermd door Google"
+   },
+   "msg142": {
+      "description": "About Menu --> Help translating",
+      "message": "Help vertalen"
+   },
+   "msg143": {
+      "description": "About Menu --> Go Back",
+      "message": "Ga Terug"
+   },
+   "msg144": {
+      "description": "Main Menu --> Reader",
+      "message": "Reader"
+   },
+   "msg145": {
+      "description": "Reader Menu --> Reader",
+      "message": "Google Reader"
+   },
+   "msg146": {
+      "description": "More Menu --> Settings",
+      "message": "Instellingen"
+   },
+   "msg147": {
+      "description": "Settings Menu --> Go Back",
+      "message": "Ga Terug"
+   },
+   "msg148": {
+      "description": "Settings Menu --> Settings",
+      "message": "Instellingen"
+   },
+   "msg149": {
+      "description": "Settings Menu Main --> Generic",
+      "message": "Algemeen"
+   },
+   "msg15": {
+      "description": "Search Menu --> Places",
+      "message": "Plaatsen"
+   },
+   "msg150": {
+      "description": "Settings Menu Main --> Translate",
+      "message": "Vertalen"
+   },
+   "msg151": {
+      "description": "Settings Menu Main --> Maps",
+      "message": "Maps"
+   },
+   "msg152": {
+      "description": "Settings Menu Main --> News",
+      "message": "Niews"
+   },
+   "msg153": {
+      "description": "Settings Menu Main --> Calendar",
+      "message": "Agenda"
+   },
+   "msg154": {
+      "description": "Settings Menu Main --> Drive",
+      "message": "Drive"
+   },
+   "msg155": {
+      "description": "Settings Menu Generic --> Hide the black bar on all google websites",
+      "message": "Verberg de zwarte balk op alle google websites"
+   },
+   "msg156": {
+      "description": "Settings Menu Generic --> Show unread counts for Google+, Gmail and Reader",
+      "message": "Toon aantal ongelezen items voor Gplus, Gmail en Reader"
+   },
+   "msg157": {
+      "description": "Settings Menu Translate --> Source language",
+      "message": "Brontaal"
+   },
+   "msg158": {
+      "description": "Settings Menu Translate--> Target language",
+      "message": "Doeltaal"
+   },
+   "msg159": {
+      "description": "Settings Menu Maps--> Map view",
+      "message": "Kaart type"
+   },
+   "msg16": {
+      "description": "Search Menu --> Discussions",
+      "message": "Discussies"
+   },
+   "msg160": {
+      "description": "Settings Menu Maps--> Show traffic",
+      "message": "Toon verkeer"
+   },
+   "msg161": {
+      "description": "Settings Menu Maps --> Default location",
+      "message": "Standaard locatie"
+   },
+   "msg162": {
+      "description": "Settings Menu News --> News edition",
+      "message": "Nieuws editie"
+   },
+   "msg163": {
+      "description": "Settings Menu News --> Image visibility",
+      "message": "Afbeelding weergave"
+   },
+   "msg164": {
+      "description": "Settings Menu News --> Number of items to display",
+      "message": "Weer te geven items"
+   },
+   "msg165": {
+      "description": "Settings Menu News --> Hide bottom links",
+      "message": "Verberg onderste links"
+   },
+   "msg166": {
+      "description": "Settings Menu Calendar --> Show empty days",
+      "message": "Toon lege dagen"
+   },
+   "msg167": {
+      "description": "Settings Menu Calendar --> Expand the tasks panel by default",
+      "message": "Klap het taken paneel standaard uit"
+   },
+   "msg168": {
+      "description": "Settings Menu Drive --> View preference",
+      "message": "Weergave voorkeur"
+   },
+   "msg169": {
+      "description": "Settings Menu Translate Targetlanguage --> Chrome language",
+      "message": "Chrome taal"
+   },
+   "msg17": {
+      "description": "Search Menu --> Patents",
+      "message": "Patenten"
+   },
+   "msg170": {
+      "description": "Settings Menu Translate Sourcelanguage --> Auto detect",
+      "message": "Auto detect"
+   },
+   "msg171": {
+      "description": "Settings Menu Maps Mapview --> Roadmap",
+      "message": "Kaart"
+   },
+   "msg172": {
+      "description": "Settings Menu Maps Mapview --> Terrain",
+      "message": "Terrein"
+   },
+   "msg173": {
+      "description": "Settings Menu Maps Mapview --> Satellite",
+      "message": "Satelliet"
+   },
+   "msg174": {
+      "description": "Settings Menu Maps Mapview --> Hybrid",
+      "message": "Hybride"
+   },
+   "msg175": {
+      "description": "Settings Menu News Imagevisibility --> Show headline images only",
+      "message": "Alleen krantenkop laten zien"
+   },
+   "msg176": {
+      "description": "Settings Menu News Imagevisibility --> Show all images",
+      "message": "Alle afbeeldingen weergeven"
+   },
+   "msg177": {
+      "description": "Settings Menu News Imagevisibility --> Hide all images",
+      "message": "Alle afbeeldingen verbergen"
+   },
+   "msg178": {
+      "description": "Settings Menu Drive Viewpreference --> Opened by me",
+      "message": "Geopend door mij"
+   },
+   "msg179": {
+      "description": "Settings Menu Drive Viewpreference --> Owned by me",
+      "message": "Van mij"
+   },
+   "msg18": {
+      "description": "Search Menu --> Flights",
+      "message": "Vluchten"
+   },
+   "msg180": {
+      "description": "Settings Menu Drive Viewpreference --> Starred",
+      "message": "Met ster"
+   },
+   "msg181": {
+      "description": "Settings Menu Main --> Gmail",
+      "message": "Gmail"
+   },
+   "msg182": {
+      "description": "Settings Menu Gmail --> Open compose in a popup/panel",
+      "message": "Nieuwe email opstellen in een popup/paneel openen"
+   },
+   "msg19": {
+      "description": "Search Menu --> Images",
+      "message": "Afbeeldingen"
+   },
+   "msg2": {
+      "description": "Main Menu --> Translate",
+      "message": "Vertalen"
+   },
+   "msg20": {
+      "description": "Search Menu --> News",
+      "message": "Nieuws"
+   },
+   "msg21": {
+      "description": "Search Menu --> Books",
+      "message": "Boeken"
+   },
+   "msg22": {
+      "description": "Search Menu --> Blogs",
+      "message": "Blogs"
+   },
+   "msg23": {
+      "description": "Search Menu --> Recipes",
+      "message": "Recepten"
+   },
+   "msg24": {
+      "description": "Search Menu --> Applications",
+      "message": "Applicaties"
+   },
+   "msg25": {
+      "description": "Search Menu --> Maps",
+      "message": "Maps"
+   },
+   "msg26": {
+      "description": "Search Menu --> Links",
+      "message": "Links"
+   },
+   "msg27": {
+      "description": "Search Menu --> Trends",
+      "message": "Trends"
+   },
+   "msg28": {
+      "description": "Search Menu --> Custom Search",
+      "message": "Aangepast Zoeken"
+   },
+   "msg29": {
+      "description": "Google+ Menu --> Google Plus",
+      "message": "Google Plus"
+   },
+   "msg3": {
+      "description": "Main Menu --> Maps",
+      "message": "Maps"
+   },
+   "msg30": {
+      "description": "Google+ Menu --> Everywhere",
+      "message": "Overal"
+   },
+   "msg31": {
+      "description": "Google+ Menu --> Communities",
+      "message": "Communities"
+   },
+   "msg32": {
+      "description": "Google+ Menu --> Events",
+      "message": "Evenementen"
+   },
+   "msg33": {
+      "description": "Google+ Menu --> Posts",
+      "message": "Berichten"
+   },
+   "msg34": {
+      "description": "Google+ Menu --> Hangouts",
+      "message": "Hangouts"
+   },
+   "msg35": {
+      "description": "Google+ Menu --> People and Pages",
+      "message": "Mensen and Pagina's"
+   },
+   "msg36": {
+      "description": "Google+ Menu --> Links",
+      "message": "Links"
+   },
+   "msg37": {
+      "description": "Google+ Menu --> Home",
+      "message": "Startpagina"
+   },
+   "msg38": {
+      "description": "Google+ Menu --> Pages",
+      "message": "Pagina's"
+   },
+   "msg39": {
+      "description": "Google+ Menu --> Profile",
+      "message": "Profiel"
+   },
+   "msg4": {
+      "description": "Main Menu --> Play",
+      "message": "Play"
+   },
+   "msg40": {
+      "description": "Google+ Menu --> Events",
+      "message": "Evenementen"
+   },
+   "msg41": {
+      "description": "Google+ Menu --> Explore",
+      "message": "Verkennen"
+   },
+   "msg42": {
+      "description": "Google+ Menu --> Hangouts",
+      "message": "Hangouts"
+   },
+   "msg43": {
+      "description": "Google+ Menu --> Local",
+      "message": "Lokaal"
+   },
+   "msg44": {
+      "description": "Google+ Menu --> Photos",
+      "message": "Foto's"
+   },
+   "msg45": {
+      "description": "Google+ Menu --> Circles",
+      "message": "Kringen"
+   },
+   "msg46": {
+      "description": "Google+ Menu --> Games",
+      "message": "Games"
+   },
+   "msg47": {
+      "description": "Translate Menu --> Translate",
+      "message": "Vertalen"
+   },
+   "msg48": {
+      "description": "Translate Menu --> Links",
+      "message": "Links"
+   },
+   "msg49": {
+      "description": "Translate Menu --> Transliteration",
+      "message": "Translator Toolkit"
+   },
+   "msg5": {
+      "description": "Main Menu --> Youtube",
+      "message": "Youtube"
+   },
+   "msg50": {
+      "description": "Translate Menu --> Transliteration",
+      "message": "Transliteration"
+   },
+   "msg51": {
+      "description": "Maps Menu --> Maps",
+      "message": "Maps"
+   },
+   "msg52": {
+      "description": "Maps Menu --> Links",
+      "message": "Links"
+   },
+   "msg53": {
+      "description": "Maps Menu --> Latitude",
+      "message": "Latitude"
+   },
+   "msg54": {
+      "description": "Maps Menu --> Mapmaker",
+      "message": "Map Maker"
+   },
+   "msg55": {
+      "description": "Play Menu --> Google Play Store",
+      "message": "Google Play Store"
+   },
+   "msg56": {
+      "description": "Play Menu --> Apps",
+      "message": "Applicaties"
+   },
+   "msg57": {
+      "description": "Play Menu --> Books",
+      "message": "Boeken"
+   },
+   "msg58": {
+      "description": "Play Menu --> Magazines",
+      "message": "Magazines"
+   },
+   "msg59": {
+      "description": "Play Menu --> Movies & TV",
+      "message": "Films & TV"
+   },
+   "msg6": {
+      "description": "Main Menu --> News",
+      "message": "Nieuws"
+   },
+   "msg60": {
+      "description": "Play Menu --> Music",
+      "message": "Muziek"
+   },
+   "msg61": {
+      "description": "Play Menu --> Devices",
+      "message": "Apparaten"
+   },
+   "msg62": {
+      "description": "Play Menu --> Play Store Links",
+      "message": "Play Store Links"
+   },
+   "msg63": {
+      "description": "Play Menu --> Orders",
+      "message": "Bestellingen"
+   },
+   "msg64": {
+      "description": "Play Menu --> Settings",
+      "message": "Instellingen"
+   },
+   "msg65": {
+      "description": "Play Menu --> My Content",
+      "message": "Mijn Content"
+   },
+   "msg66": {
+      "description": "Play Menu --> My Apps",
+      "message": "Mijn Applicaties"
+   },
+   "msg67": {
+      "description": "Play Menu --> My Books",
+      "message": "Mijn Boeken"
+   },
+   "msg68": {
+      "description": "Play Menu --> My Magazines",
+      "message": "Mijn Magazines"
+   },
+   "msg69": {
+      "description": "Play Menu --> My Movies & TV",
+      "message": "Mijn Films & TV"
+   },
+   "msg7": {
+      "description": "Main Menu --> Gmail",
+      "message": "Gmail"
+   },
+   "msg70": {
+      "description": "Play Menu --> My Music",
+      "message": "Mijn Muziek"
+   },
+   "msg71": {
+      "description": "Play Menu --> My Devices",
+      "message": "Mijn apparaten"
+   },
+   "msg72": {
+      "description": "Youtube Menu --> Youtube",
+      "message": "Youtube"
+   },
+   "msg73": {
+      "description": "Youtube Menu --> Links",
+      "message": "Links"
+   },
+   "msg74": {
+      "description": "Youtube Menu --> Watch later",
+      "message": "Later Bekijken"
+   },
+   "msg75": {
+      "description": "Youtube Menu --> Playlists",
+      "message": "Afspeellijsten"
+   },
+   "msg76": {
+      "description": "News Menu --> News",
+      "message": "Nieuws"
+   },
+   "msg77": {
+      "description": "News Menu --> Links",
+      "message": "Links"
+   },
+   "msg78": {
+      "description": "News Menu --> News archive",
+      "message": "Nieuws archief"
+   },
+   "msg79": {
+      "description": "News Menu --> Google Reader",
+      "message": "Google Reader"
+   },
+   "msg8": {
+      "description": "Main Menu --> Drive",
+      "message": "Drive"
+   },
+   "msg80": {
+      "description": "Gmail Menu --> Gmail",
+      "message": "Gmail"
+   },
+   "msg81": {
+      "description": "Gmail Menu --> All Mail",
+      "message": "Alle berichten"
+   },
+   "msg82": {
+      "description": "Gmail Menu --> Inbox",
+      "message": "Inbox"
+   },
+   "msg83": {
+      "description": "Gmail Menu --> Unread",
+      "message": "Ongelezen"
+   },
+   "msg84": {
+      "description": "Gmail Menu --> Important",
+      "message": "Belangrijk"
+   },
+   "msg85": {
+      "description": "Gmail Menu --> Drafts",
+      "message": "Concepten"
+   },
+   "msg86": {
+      "description": "Gmail Menu --> Spam",
+      "message": "Spam"
+   },
+   "msg87": {
+      "description": "Gmail Menu --> Circles",
+      "message": "Kringen"
+   },
+   "msg88": {
+      "description": "Gmail Menu --> Anywhere",
+      "message": "Overal"
+   },
+   "msg89": {
+      "description": "Gmail Menu --> Sent Mail",
+      "message": "Verzonden"
+   },
+   "msg9": {
+      "description": "Main Menu --> Calendar",
+      "message": "Agenda"
+   },
+   "msg90": {
+      "description": "Gmail Menu --> Read",
+      "message": "Gelezen"
+   },
+   "msg91": {
+      "description": "Gmail Menu --> Starred",
+      "message": "Met ster"
+   },
+   "msg92": {
+      "description": "Gmail Menu --> Attachments",
+      "message": "Bijlagen"
+   },
+   "msg93": {
+      "description": "Gmail Menu --> Trash",
+      "message": "Prullenbak"
+   },
+   "msg94": {
+      "description": "Gmail Menu --> Chats",
+      "message": "Chats"
+   },
+   "msg95": {
+      "description": "Gmail Menu --> Links",
+      "message": "Links"
+   },
+   "msg96": {
+      "description": "Gmail Menu --> Compose",
+      "message": "Opstellen"
+   },
+   "msg97": {
+      "description": "Gmail Menu --> Contacts",
+      "message": "Contacten"
+   },
+   "msg98": {
+      "description": "Drive Menu --> Drive",
+      "message": "Drive"
+   },
+   "msg99": {
+      "description": "Drive Menu --> Links",
+      "message": "Links"
+   },
+   "pmsg0": {
+      "description": "Search Menu --> Search google...",
+      "message": "Zoek op google..."
+   },
+   "pmsg1": {
+      "description": "Google+ Menu --> Search google plus...",
+      "message": "Zoek in google plus..."
+   },
+   "pmsg10": {
+      "description": "Reader Menu --> Search google reader...",
+      "message": "Zoek op google reader..."
+   },
+   "pmsg2": {
+      "description": "Play Menu --> Search google play store...",
+      "message": "Zoek in de google play store..."
+   },
+   "pmsg3": {
+      "description": "News Menu --> Search google news...",
+      "message": "Zoek in google nieuws..."
+   },
+   "pmsg4": {
+      "description": "Gmail Menu --> Search gmail...",
+      "message": "Zoek in gmail..."
+   },
+   "pmsg5": {
+      "description": "Calendar Menu --> Search google calendar...",
+      "message": "Zoek in google calendar..."
+   },
+   "pmsg6": {
+      "description": "Translate Menu --> Enter text to translate here...",
+      "message": "Voer hier tekst in om te vertalen..."
+   },
+   "pmsg7": {
+      "description": "Maps Menu --> Search google maps...",
+      "message": "Zoek op google maps..."
+   },
+   "pmsg8": {
+      "description": "Youtube Menu --> Search youtube...",
+      "message": "Zoek in youtube..."
+   },
+   "pmsg9": {
+      "description": "Drive Menu --> Search google drive...",
+      "message": "Zoek in google drive..."
+   },
+   "testBla": {
+      "description": "The main location where this language is used",
+      "message": ""
+   },
+   "tmsg0": {
+      "description": "Drive Menu --> New Document",
+      "message": "Nieuw Document"
+   },
+   "tmsg1": {
+      "description": "Drive Menu --> New Presentation",
+      "message": "Nieuwe Presentatie"
+   },
+   "tmsg10": {
+      "description": "Reader Switch --> Switch to News",
+      "message": "Schakel over naar Nieuws"
+   },
+   "tmsg2": {
+      "description": "Drive Menu --> New Spreadsheet",
+      "message": "Nieuwe Spreadsheet"
+   },
+   "tmsg3": {
+      "description": "Drive Menu --> New Form",
+      "message": "Nieuw Formulier"
+   },
+   "tmsg4": {
+      "description": "Drive Menu --> New Table",
+      "message": "Nieuw Tabel"
+   },
+   "tmsg5": {
+      "description": "Drive Menu --> New Drawing",
+      "message": "Nieuwe Tekening"
+   },
+   "tmsg6": {
+      "description": "Drive Menu --> New Script",
+      "message": "Nieuw Script"
+   },
+   "tmsg7": {
+      "description": "Calendar Menu --> Click to Expand",
+      "message": "Klik om uit te klappen"
+   },
+   "tmsg8": {
+      "description": "Calendar Menu --> Click to Collapse",
+      "message": "Klik om in te klappen"
+   },
+   "tmsg9": {
+      "description": "Reader Switch --> Switch to Reader",
+      "message": "Schakel over naar Reader"
+   }
+}

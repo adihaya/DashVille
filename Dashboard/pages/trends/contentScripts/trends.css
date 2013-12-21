@@ -1,0 +1,101 @@
+body {
+  width: 100% !important;
+  height: 100% !important;
+  background-color: #fff !important;
+  overflow: hidden !important;
+}
+#widget-content>div {
+  height: 100% !important;
+  width: 100% !important;
+}
+.widget-single-item-panel-container {
+  position: fixed !important;
+  top: 0px !important;
+  width: 100% !important;
+  background-color: white !important;
+  left: 0px !important;
+  padding-left: 12px !important;
+  box-sizing: border-box !important;
+  height: 44px !important;
+  padding-top: 4px !important;
+  border-top: 0px !important;
+  border-bottom: 1px solid #d5d5d5 !important;
+}
+.widget-single-item-detailed-no-panel-wrapper {
+  position: fixed !important;
+  top: 44px !important;
+  width: 100% !important;
+  height: calc(100% - 44px) !important;
+  left: 0px !important;
+  box-sizing: border-box !important;
+  padding: 4px 12px !important;
+}
+.widget-list-without-panel {
+  position: fixed !important;
+  top: 44px !important;
+  left: 0px !important;
+  width: 100% !important;
+  height: calc(100% - 44px) !important;
+}
+#widget-list-panel-container {
+  position: fixed !important;
+  top: 0px !important;
+  left: 0px !important;
+  width: 100% !important;
+  background-color: #fff !important;
+  height: 44px !important;
+  border-top: 0px !important;
+  border-bottom: 1px solid #d5d5d5 !important;
+  padding: 8px !important;
+  box-sizing: border-box !important;
+}
+.share-button-arrow {
+  position: relative !important;
+  display: inline-block !important;
+  top: 3px !important;
+}
+.jfk-button {
+  height: 27px !important;
+  line-height: 27px !important;
+  box-sizing: border-box !important;
+}
+.widget-single-item-arrows {
+  margin-top: -5px !important;
+  margin-right: -7px !important;
+}
+.share-button-arrow {
+  position: relative !important;
+  display: inline-block !important;
+  top: 3px !important;
+}
+.jfk-button-narrow {
+  width: 30px !important;
+  box-sizing: border-box !important;
+  line-height: 25px !important;
+}
+select {
+  -webkit-appearance: none;
+  -webkit-padding-end: 13px;
+  -webkit-padding-start: 6px;
+  background: url("chrome-extension://__MSG_@@extension_id__/images/sprite-25.png") repeat-y right -50px, -webkit-linear-gradient(top,#F5F5F5,#F1F1F1) !important;
+  -webkit-user-select: none;
+  border: 1px solid #CCC;
+  border-radius: 2px;
+  height:27px;
+  font:700 11px arial,sans-serif;
+  color: #333;
+  display: inline-block;
+  margin-left: 0px;
+}
+select:hover {
+  box-shadow: 0 1px 1px rgba(0, 0, 0, .1);
+}
+select:focus {
+  outline: none;
+}
+select:active,select.focus {
+  box-shadow: inset 0 1px 2px rgba(0, 0, 0, .1);
+  background: url("images/sprite-25.png") repeat-y right -50px, -webkit-linear-gradient(top,#EEE,#E0E0E0);
+  outline:0;
+  border: 1px solid #CCC;
+}

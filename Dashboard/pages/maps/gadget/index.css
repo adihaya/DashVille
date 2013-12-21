@@ -1,0 +1,105 @@
+body {
+  margin: 0;
+}
+#map-canvas {
+  height: 100%;
+  width: 100%;
+}
+#trafficButton {
+  background-image: url("maps_traffic.png");
+  height: 39px;
+  width: 22px;
+  top: 50px !important;
+  left: 40px !important;
+}
+#trafficButton.on {
+  background-position: 22px 0px;
+}
+.searchInput  {
+  -webkit-box-shadow: inset 0 0 0 rgba(0, 0, 0, 0) !important;
+  background: url("chrome-extension://iohkpiocmeldhhncjckljhjdbjgcgcib/images/sprite-25.png") repeat-y right -25px #fff !important;
+  border: none;
+  color: #222;
+  display: inline-block;
+  border-radius: 1px;
+  height: 27px;
+  line-height: 25px;
+  outline: none;
+  padding-left: 4px;
+  vertical-align: top;
+  width: 100%;
+  font: 13px arial,sans-serif;
+  padding-right: 32px;
+  -webkit-appearance: none;
+  box-shadow: 0 2px 6px rgba(0,0,0,0.3),0 4px 15px -5px rgba(0,0,0,0.0) !important;
+  border-top-right-radius: 4px;
+  border-bottom-right-radius: 4px;
+}
+.searchBox {
+  float: left;
+  -webkit-user-select: none;
+  height: 44px;
+  width: 100%;
+  border-style: none;
+  display: block;
+  line-height: 44px;
+  margin: 0;
+  padding: 8px;
+  box-sizing: border-box;
+  -moz-box-sizing: border-box;
+  z-index: 999999;
+  position: relative;
+}
+#buttonSearchBox {
+  pointer-events: none;
+}
+button {
+  background: -webkit-linear-gradient(top,#F5F5F5,#F1F1F1);
+  -webkit-user-select: none;
+  border: 1px solid #CCC;
+  border-radius: 2px;
+  height: 27px;
+  font: 700 11px arial,sans-serif;
+  color: #333;
+  display: inline-block;
+  position: relative;
+}	
+button:hover {
+  box-shadow: 0 1px 1px rgba(0, 0, 0, .1);
+}
+button:active {
+  box-shadow: inset 0 1px 2px rgba(0, 0, 0, .1);
+  background: -webkit-linear-gradient(top,#EEE,#E0E0E0);
+}
+button.blueButton {
+  background-image: -webkit-linear-gradient(top,#4D90FE,#4787ED);
+  border: 1px solid #3079ED;
+  color: #fff;
+}	
+button.blueButton:hover {
+  background-image: -webkit-linear-gradient(top,#4D90FE,#357AE8);
+  border-color: #2F5BB7;
+}
+button.blueButton:active {
+  box-shadow: inset 0 1px 2px rgba(0, 0, 0, 0.3);
+}
+button.searchButton {
+  background-image: url("https://www.gstatic.com/ui/v1/button/search-white.png"),-webkit-linear-gradient(top,#4D90FE,#4787ED);
+  background-repeat: no-repeat;
+  background-position: center center;
+  border-top-left-radius: 0px;
+  border-bottom-left-radius: 0px;
+  width: 30px;
+  position: absolute;
+  top: 8px;
+  right: 8px;
+}
+button.searchButton:hover {
+  background-image: url("https://www.gstatic.com/ui/v1/button/search-white.png"),-webkit-linear-gradient(top,#4D90FE,#357AE8);
+}
+#controls {
+  display: none;
+}
+.pac-container {
+  font-family: arial, sans-serif;
+}

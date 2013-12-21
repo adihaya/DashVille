@@ -1,0 +1,1082 @@
+{
+   "chromeLangLocation": {
+      "description": "The main location where this language is used",
+      "message": "Catalunya"
+   },
+   "extDescription": {
+      "description": "Extension Description",
+      "message": "Un menú per accedir amb un sol clic a tots els teus serveis preferits de Google."
+   },
+   "msg0": {
+      "description": "Main Menu --> Search",
+      "message": "Cerca"
+   },
+   "msg1": {
+      "description": "Main Menu --> Google+",
+      "message": "Google+"
+   },
+   "msg10": {
+      "description": "Main Menu --> More",
+      "message": "Més"
+   },
+   "msg100": {
+      "description": "Drive Menu --> My Drive",
+      "message": "La meva unitat"
+   },
+   "msg101": {
+      "description": "Drive Menu --> Shared with me",
+      "message": "Compartit amb mi"
+   },
+   "msg102": {
+      "description": "Drive Menu --> Starred",
+      "message": "Destacats"
+   },
+   "msg103": {
+      "description": "Drive Menu --> Recent",
+      "message": "Recent"
+   },
+   "msg104": {
+      "description": "Drive Menu --> Activity",
+      "message": "Activitat"
+   },
+   "msg105": {
+      "description": "Drive Menu --> All items",
+      "message": "Tots els elements"
+   },
+   "msg106": {
+      "description": "Drive Menu --> Trash",
+      "message": "Paperera"
+   },
+   "msg107": {
+      "description": "Drive Menu --> Templates",
+      "message": "Plantilles"
+   },
+   "msg108": {
+      "description": "Calendar Menu --> Calendar",
+      "message": "Calendari"
+   },
+   "msg109": {
+      "description": "Calendar Menu --> Tasks",
+      "message": "Tasques"
+   },
+   "msg11": {
+      "description": "Search Menu --> Google Search",
+      "message": "Cerca a Google"
+   },
+   "msg110": {
+      "description": "More Menu --> Adsense",
+      "message": "Adsense"
+   },
+   "msg111": {
+      "description": "More Menu --> Alerts",
+      "message": "Alertes"
+   },
+   "msg112": {
+      "description": "More Menu --> App Engine",
+      "message": "App Engine"
+   },
+   "msg113": {
+      "description": "More Menu --> Chrome Web Store",
+      "message": "Chrome Web Store"
+   },
+   "msg114": {
+      "description": "More Menu --> Developers",
+      "message": "Desenvolupadors"
+   },
+   "msg115": {
+      "description": "More Menu --> Offers",
+      "message": "Ofertes"
+   },
+   "msg116": {
+      "description": "More Menu --> Scholar",
+      "message": "Acadèmic"
+   },
+   "msg117": {
+      "description": "More Menu --> Url Shortener",
+      "message": "Escurçador d'enllaços"
+   },
+   "msg118": {
+      "description": "More Menu --> Wallet",
+      "message": "Wallet"
+   },
+   "msg119": {
+      "description": "More Menu --> Dashboard",
+      "message": "Tauler"
+   },
+   "msg12": {
+      "description": "Search Menu --> Web",
+      "message": "Web"
+   },
+   "msg120": {
+      "description": "More Menu --> Adwords",
+      "message": "Adwords"
+   },
+   "msg121": {
+      "description": "More Menu --> Analytics",
+      "message": "Analytics"
+   },
+   "msg122": {
+      "description": "More Menu --> Blogger",
+      "message": "Blogger"
+   },
+   "msg123": {
+      "description": "More Menu --> Custom Search",
+      "message": "Cerca personalitzada"
+   },
+   "msg124": {
+      "description": "More Menu --> Finance",
+      "message": "Finances"
+   },
+   "msg125": {
+      "description": "More Menu --> Picasa",
+      "message": "Picasa"
+   },
+   "msg126": {
+      "description": "More Menu --> Sites",
+      "message": "Llocs"
+   },
+   "msg127": {
+      "description": "More Menu --> Voice",
+      "message": "Voice"
+   },
+   "msg128": {
+      "description": "More Menu --> Webmaster Tools",
+      "message": "Eines per a administradors web"
+   },
+   "msg129": {
+      "description": "More Menu --> Google Settings",
+      "message": "Configuració de Google"
+   },
+   "msg13": {
+      "description": "Search Menu --> Videos",
+      "message": "Vídeos"
+   },
+   "msg130": {
+      "description": "More Menu --> About",
+      "message": "Quant a"
+   },
+   "msg131": {
+      "description": "About Menu --> About",
+      "message": "Quant a"
+   },
+   "msg132": {
+      "description": "About Menu --> thanks for installing this extension!",
+      "message": "Gràcies per instal·lar aquesta extensió!"
+   },
+   "msg133": {
+      "description": "About Menu --> Links",
+      "message": "Enllaços"
+   },
+   "msg134": {
+      "description": "About Menu --> Donate",
+      "message": "Dóna"
+   },
+   "msg135": {
+      "description": "About Menu --> Rate & review",
+      "message": "Avalua i escriu una ressenya"
+   },
+   "msg136": {
+      "description": "About Menu --> Give feedback",
+      "message": "Deixi el seu comentari"
+   },
+   "msg137": {
+      "description": "About Menu --> Contact me",
+      "message": "Contacta"
+   },
+   "msg138": {
+      "description": "About Menu --> Email",
+      "message": "Adreça electrònica"
+   },
+   "msg139": {
+      "description": "About Menu --> Google+",
+      "message": "Google+"
+   },
+   "msg14": {
+      "description": "Search Menu --> Shopping",
+      "message": "Shopping"
+   },
+   "msg140": {
+      "description": "About Menu --> Thanks to",
+      "message": "Gràcies a"
+   },
+   "msg141": {
+      "description": "About Menu --> The google icons in this extension are copyrighted by google",
+      "message": "Les icones d'aquesta extensió són propietat de Google"
+   },
+   "msg142": {
+      "description": "About Menu --> Help translating",
+      "message": "Ajudeu a traduïr"
+   },
+   "msg143": {
+      "description": "About Menu --> Go Back",
+      "message": "Enrere"
+   },
+   "msg144": {
+      "description": "Main Menu --> Reader",
+      "message": "Reader"
+   },
+   "msg145": {
+      "description": "Reader Menu --> Reader",
+      "message": "Google Reader"
+   },
+   "msg146": {
+      "description": "More Menu --> Settings",
+      "message": "Configuració"
+   },
+   "msg147": {
+      "description": "Settings Menu --> Go Back",
+      "message": "Enrere"
+   },
+   "msg148": {
+      "description": "Settings Menu --> Settings",
+      "message": "Configuració"
+   },
+   "msg149": {
+      "description": "Settings Menu Main --> Generic",
+      "message": "Genèric"
+   },
+   "msg15": {
+      "description": "Search Menu --> Places",
+      "message": "Llocs"
+   },
+   "msg150": {
+      "description": "Settings Menu Main --> Translate",
+      "message": "Traductor"
+   },
+   "msg151": {
+      "description": "Settings Menu Main --> Maps",
+      "message": "Mapes"
+   },
+   "msg152": {
+      "description": "Settings Menu Main --> News",
+      "message": "Notícies"
+   },
+   "msg153": {
+      "description": "Settings Menu Main --> Calendar",
+      "message": "Calendari"
+   },
+   "msg154": {
+      "description": "Settings Menu Main --> Drive",
+      "message": "Drive"
+   },
+   "msg155": {
+      "description": "Settings Menu Generic --> Hide the black bar on all google websites",
+      "message": "Amaga la barra negra en totes les pàgines de Google"
+   },
+   "msg156": {
+      "description": "Settings Menu Generic --> Show unread counts for Google+, Gmail and Reader",
+      "message": "Mostra un comptador per a les notificacions"
+   },
+   "msg157": {
+      "description": "Settings Menu Translate --> Source language",
+      "message": "Idioma d'origen"
+   },
+   "msg158": {
+      "description": "Settings Menu Translate--> Target language",
+      "message": "Idioma de destí"
+   },
+   "msg159": {
+      "description": "Settings Menu Maps--> Map view",
+      "message": "Vista del mapa"
+   },
+   "msg16": {
+      "description": "Search Menu --> Discussions",
+      "message": "Discussions"
+   },
+   "msg160": {
+      "description": "Settings Menu Maps--> Show traffic",
+      "message": "Mostra el tràfic"
+   },
+   "msg161": {
+      "description": "Settings Menu Maps --> Default location",
+      "message": "Localització per defecte"
+   },
+   "msg162": {
+      "description": "Settings Menu News --> News edition",
+      "message": "Edició"
+   },
+   "msg163": {
+      "description": "Settings Menu News --> Image visibility",
+      "message": "Mostra les imatges"
+   },
+   "msg164": {
+      "description": "Settings Menu News --> Number of items to display",
+      "message": "Articles que es mostraran"
+   },
+   "msg165": {
+      "description": "Settings Menu News --> Hide bottom links",
+      "message": "Amaga els enllaços"
+   },
+   "msg166": {
+      "description": "Settings Menu Calendar --> Show empty days",
+      "message": "Mostra els dies buïts"
+   },
+   "msg167": {
+      "description": "Settings Menu Calendar --> Expand the tasks panel by default",
+      "message": "Per defecte expandeix el panell de tasques"
+   },
+   "msg168": {
+      "description": "Settings Menu Drive --> View preference",
+      "message": "Mode de vista preferent"
+   },
+   "msg169": {
+      "description": "Settings Menu Translate Targetlanguage --> Chrome language",
+      "message": "Idioma del Chrome"
+   },
+   "msg17": {
+      "description": "Search Menu --> Patents",
+      "message": "Patents"
+   },
+   "msg170": {
+      "description": "Settings Menu Translate Sourcelanguage --> Auto detect",
+      "message": "Detecta l'idioma"
+   },
+   "msg171": {
+      "description": "Settings Menu Maps Mapview --> Roadmap",
+      "message": "Carreteres"
+   },
+   "msg172": {
+      "description": "Settings Menu Maps Mapview --> Terrain",
+      "message": "Terreny"
+   },
+   "msg173": {
+      "description": "Settings Menu Maps Mapview --> Satellite",
+      "message": "Satèlit"
+   },
+   "msg174": {
+      "description": "Settings Menu Maps Mapview --> Hybrid",
+      "message": "Híbrid"
+   },
+   "msg175": {
+      "description": "Settings Menu News Imagevisibility --> Show headline images only",
+      "message": "Mostra l'imatge de la portada"
+   },
+   "msg176": {
+      "description": "Settings Menu News Imagevisibility --> Show all images",
+      "message": "Mostra totes les imatges"
+   },
+   "msg177": {
+      "description": "Settings Menu News Imagevisibility --> Hide all images",
+      "message": "Amaga totes les imatges"
+   },
+   "msg178": {
+      "description": "Settings Menu Drive Viewpreference --> Opened by me",
+      "message": "Oberts per mi"
+   },
+   "msg179": {
+      "description": "Settings Menu Drive Viewpreference --> Owned by me",
+      "message": "Propietari"
+   },
+   "msg18": {
+      "description": "Search Menu --> Flights",
+      "message": "Vols"
+   },
+   "msg180": {
+      "description": "Settings Menu Drive Viewpreference --> Starred",
+      "message": "Destacats"
+   },
+   "msg181": {
+      "description": "Settings Menu Main --> Gmail",
+      "message": "Gmail"
+   },
+   "msg182": {
+      "description": "Settings Menu Gmail --> Open compose in a popup/panel",
+      "message": "Obre Redacta en un popup/panell"
+   },
+   "msg183": {
+      "description": "Maps Menu --> Sky",
+      "message": "Cel"
+   },
+   "msg184": {
+      "description": "Maps Menu --> Moon",
+      "message": "Lluna"
+   },
+   "msg185": {
+      "description": "Maps Menu --> Mars",
+      "message": "Mart"
+   },
+   "msg186": {
+      "description": "Reader Menu --> Reader Play",
+      "message": "Reader Play"
+   },
+   "msg187": {
+      "description": "Drive Menu --> Offline Files",
+      "message": "Sense connexió"
+   },
+   "msg188": {
+      "description": "Gmail Menu --> New Contact",
+      "message": "Nou contacte"
+   },
+   "msg189": {
+      "description": "Any Menu --> Links and Search Filters",
+      "message": "Enllaços i etiquetes"
+   },
+   "msg19": {
+      "description": "Search Menu --> Images",
+      "message": "Imatges"
+   },
+   "msg190": {
+      "description": "Settings Menu Generic --> Open Black Menu in a panel",
+      "message": "Obrir Black Menu en un panell de Chrome"
+   },
+   "msg191": {
+      "description": "Settings Menu Maps/Youtube --> Enable instant Search",
+      "message": "Enable instant Search"
+   },
+   "msg192": {
+      "description": "Reader Menu --> Google News",
+      "message": "Google News"
+   },
+   "msg193": {
+      "description": "Youtube Menu --> My Profile",
+      "message": "My Profile"
+   },
+   "msg194": {
+      "description": "Youtube Menu --> My Uploads",
+      "message": "My Uploads"
+   },
+   "msg195": {
+      "description": "Youtube Menu --> My Favorites",
+      "message": "My Favorites"
+   },
+   "msg196": {
+      "description": "Youtube Menu --> My Liked Videos",
+      "message": "My Liked Videos"
+   },
+   "msg197": {
+      "description": "Youtube Menu --> Subscription Videos",
+      "message": "Subscription Videos"
+   },
+   "msg198": {
+      "description": "Youtube Menu --> Browse Channels",
+      "message": "Browse Channels"
+   },
+   "msg199": {
+      "description": "Youtube Menu --> Dashboard",
+      "message": "Dashboard"
+   },
+   "msg2": {
+      "description": "Main Menu --> Translate",
+      "message": "Traductor"
+   },
+   "msg20": {
+      "description": "Search Menu --> News",
+      "message": "Notícies"
+   },
+   "msg200": {
+      "description": "Youtube Menu --> Video Editor",
+      "message": "Video Editor"
+   },
+   "msg201": {
+      "description": "Youtube Menu --> Analytics",
+      "message": "Analytics"
+   },
+   "msg202": {
+      "description": "Youtube Menu --> Inbox",
+      "message": "Inbox"
+   },
+   "msg203": {
+      "description": "Youtube Menu --> My feed",
+      "message": "My feed"
+   },
+   "msg204": {
+      "description": "Youtube Menu --> Watch History",
+      "message": "Watch History"
+   },
+   "msg205": {
+      "description": "Youtube Menu --> My subscriptions",
+      "message": "My subscriptions"
+   },
+   "msg206": {
+      "description": "Youtube Menu --> Social",
+      "message": "Social"
+   },
+   "msg207": {
+      "description": "Gplus Menu --> Other links",
+      "message": "Other links"
+   },
+   "msg208": {
+      "description": "Settings Menu Generic --> Show buttons to open gadgets in a panel",
+      "message": "Show buttons to open gadgets in a panel"
+   },
+   "msg209": {
+      "description": "Settings Menu Generic --> Shortcut",
+      "message": "Shortcut"
+   },
+   "msg21": {
+      "description": "Search Menu --> Books",
+      "message": "Llibres"
+   },
+   "msg210": {
+      "description": "Settings Menu Generic --> Define",
+      "message": "Define"
+   },
+   "msg211": {
+      "description": "Settings Menu News --> Sections",
+      "message": "Sections"
+   },
+   "msg212": {
+      "description": "Settings Menu News/Gmail --> Configure",
+      "message": "Configure"
+   },
+   "msg213": {
+      "description": "Settings Menu Gmail --> Vacation Responder",
+      "message": "Vacation Responder"
+   },
+   "msg214": {
+      "description": "Popup panel error --> Please enable panels",
+      "message": "Please enable panels"
+   },
+   "msg215": {
+      "description": "Popup panel error --> ok",
+      "message": "ok"
+   },
+   "msg216": {
+      "description": "Popup panel error --> Before you can open Black Menu, or parts of Black Menu in a panel, you need to enable panels. To do that, follow these steps.",
+      "message": "Before you can open Black Menu, or parts of Black Menu in a panel, you need to enable panels. To do that, follow these steps."
+   },
+   "msg217": {
+      "description": "Popup panel error/define shortcut --> Go to",
+      "message": " 1. Go to"
+   },
+   "msg218": {
+      "description": "Popup panel error --> 2. Locate the 'Enable Panels' panel",
+      "message": "2. Locate the 'Enable Panels' panel"
+   },
+   "msg219": {
+      "description": "Popup panel error --> 3. Enable the 'Enable Panels' flag",
+      "message": "3. Enable the 'Enable Panels' flag"
+   },
+   "msg22": {
+      "description": "Search Menu --> Blogs",
+      "message": "Blocs"
+   },
+   "msg220": {
+      "description": "Popup panel error --> 4. Relaunch Chrome",
+      "message": "4. Relaunch Chrome"
+   },
+   "msg221": {
+      "description": "Popup panel error --> 5. Done",
+      "message": "5. Done"
+   },
+   "msg222": {
+      "description": "Popup define shortcut --> Define a shortcut key to open Black Menu",
+      "message": "Define a shortcut key to open Black Menu"
+   },
+   "msg223": {
+      "description": "Popup define shortcut --> got it",
+      "message": "got it"
+   },
+   "msg224": {
+      "description": "Popup define shortcut --> Follow these steps to define a shortcut key to open black menu.",
+      "message": "Follow these steps to define a shortcut key to open black menu."
+   },
+   "msg225": {
+      "description": "Popup define shortcut --> 2. Scroll all the way to the bottom of the page",
+      "message": "2. Scroll all the way to the bottom of the page"
+   },
+   "msg226": {
+      "description": "Popup define shortcut --> 3. Click on 'Configure Commands'",
+      "message": "3. Click on 'Configure Commands'"
+   },
+   "msg227": {
+      "description": "Popup define shortcut --> 4. Locate Black Menu",
+      "message": "4. Locate Black Menu"
+   },
+   "msg228": {
+      "description": "Popup define shortcut --> 5. Click the 'not set' box next to Black Menu",
+      "message": "5. Click the 'not set' box next to Black Menu"
+   },
+   "msg229": {
+      "description": "Popup define shortcut --> 6. Press the key you want to attach to Black Menu",
+      "message": "6. Press the key you want to attach to Black Menu"
+   },
+   "msg23": {
+      "description": "Search Menu --> Recipes",
+      "message": "Receptes"
+   },
+   "msg230": {
+      "description": "Popup define shortcut --> 7. Click OK",
+      "message": "7. Click OK"
+   },
+   "msg231": {
+      "description": "Popup define shortcut --> 8. Done",
+      "message": "8. Done"
+   },
+   "msg232": {
+      "description": "Popup news sections --> Select news sections",
+      "message": "Select news sections"
+   },
+   "msg233": {
+      "description": "Popup news sections --> done",
+      "message": "done"
+   },
+   "msg234": {
+      "description": "Popup news sections --> Select news sections:",
+      "message": "Select news sections:"
+   },
+   "msg235": {
+      "description": "Popup news sections --> Top Stories",
+      "message": "Top Stories"
+   },
+   "msg236": {
+      "description": "Popup news sections --> World",
+      "message": "World"
+   },
+   "msg237": {
+      "description": "Popup news sections --> Your Country",
+      "message": "Your Country"
+   },
+   "msg238": {
+      "description": "Popup news sections --> Business",
+      "message": "Business"
+   },
+   "msg239": {
+      "description": "Popup news sections --> Sci/Tech",
+      "message": "Sci/Tech"
+   },
+   "msg24": {
+      "description": "Search Menu --> Applications",
+      "message": "Aplicacions"
+   },
+   "msg240": {
+      "description": "Popup news sections --> Entertainment",
+      "message": "Entertainment"
+   },
+   "msg241": {
+      "description": "Popup news sections --> Sports",
+      "message": "Sports"
+   },
+   "msg242": {
+      "description": "Popup news sections --> Health",
+      "message": "Health"
+   },
+   "msg243": {
+      "description": "Popup news sections --> Popular",
+      "message": "Popular"
+   },
+   "msg244": {
+      "description": "Popup news sections --> Custom Sections, seperate with a comma:",
+      "message": "Custom Sections, seperate with a comma:"
+   },
+   "msg25": {
+      "description": "Search Menu --> Maps",
+      "message": "Mapes"
+   },
+   "msg26": {
+      "description": "Search Menu --> Links",
+      "message": "Enllaços"
+   },
+   "msg27": {
+      "description": "Search Menu --> Trends",
+      "message": "Tendències"
+   },
+   "msg28": {
+      "description": "Search Menu --> Custom Search",
+      "message": "Cerca personalitzada"
+   },
+   "msg29": {
+      "description": "Google+ Menu --> Google Plus",
+      "message": "Google Plus"
+   },
+   "msg3": {
+      "description": "Main Menu --> Maps",
+      "message": "Mapes"
+   },
+   "msg30": {
+      "description": "Google+ Menu --> Everywhere",
+      "message": "A tot arreu"
+   },
+   "msg31": {
+      "description": "Google+ Menu --> Communities",
+      "message": "Communities"
+   },
+   "msg32": {
+      "description": "Google+ Menu --> Events",
+      "message": "Esdeveniments"
+   },
+   "msg33": {
+      "description": "Google+ Menu --> Posts",
+      "message": "Entrades"
+   },
+   "msg34": {
+      "description": "Google+ Menu --> Hangouts",
+      "message": "Hangouts"
+   },
+   "msg35": {
+      "description": "Google+ Menu --> People and Pages",
+      "message": "Persones i pàgines"
+   },
+   "msg36": {
+      "description": "Google+ Menu --> Links",
+      "message": "Enllaços"
+   },
+   "msg37": {
+      "description": "Google+ Menu --> Home",
+      "message": "Inici"
+   },
+   "msg38": {
+      "description": "Google+ Menu --> Pages",
+      "message": "Pàgines"
+   },
+   "msg39": {
+      "description": "Google+ Menu --> Profile",
+      "message": "Perfil"
+   },
+   "msg4": {
+      "description": "Main Menu --> Play",
+      "message": "Play"
+   },
+   "msg40": {
+      "description": "Google+ Menu --> Events",
+      "message": "Esdeveniments"
+   },
+   "msg41": {
+      "description": "Google+ Menu --> Explore",
+      "message": "Explora"
+   },
+   "msg42": {
+      "description": "Google+ Menu --> Hangouts",
+      "message": "Hangouts"
+   },
+   "msg43": {
+      "description": "Google+ Menu --> Local",
+      "message": "Local"
+   },
+   "msg44": {
+      "description": "Google+ Menu --> Photos",
+      "message": "Fotografies"
+   },
+   "msg45": {
+      "description": "Google+ Menu --> Circles",
+      "message": "Cercles"
+   },
+   "msg46": {
+      "description": "Google+ Menu --> Games",
+      "message": "Jocs"
+   },
+   "msg47": {
+      "description": "Translate Menu --> Translate",
+      "message": "Traductor"
+   },
+   "msg48": {
+      "description": "Translate Menu --> Links",
+      "message": "Enllaços"
+   },
+   "msg49": {
+      "description": "Translate Menu --> Transliteration",
+      "message": "Translator Toolkit"
+   },
+   "msg5": {
+      "description": "Main Menu --> Youtube",
+      "message": "Youtube"
+   },
+   "msg50": {
+      "description": "Translate Menu --> Transliteration",
+      "message": "Transcripció"
+   },
+   "msg51": {
+      "description": "Maps Menu --> Maps",
+      "message": "Mapes"
+   },
+   "msg52": {
+      "description": "Maps Menu --> Links",
+      "message": "Enllaços"
+   },
+   "msg53": {
+      "description": "Maps Menu --> Latitude",
+      "message": "Latitude"
+   },
+   "msg54": {
+      "description": "Maps Menu --> Mapmaker",
+      "message": "Cartògraf"
+   },
+   "msg55": {
+      "description": "Play Menu --> Google Play Store",
+      "message": "Google Play Store"
+   },
+   "msg56": {
+      "description": "Play Menu --> Apps",
+      "message": "Aplicacions"
+   },
+   "msg57": {
+      "description": "Play Menu --> Books",
+      "message": "Llibres"
+   },
+   "msg58": {
+      "description": "Play Menu --> Magazines",
+      "message": "Revistes"
+   },
+   "msg59": {
+      "description": "Play Menu --> Movies & TV",
+      "message": "Pel·lícules i Televisió"
+   },
+   "msg6": {
+      "description": "Main Menu --> News",
+      "message": "Notícies"
+   },
+   "msg60": {
+      "description": "Play Menu --> Music",
+      "message": "Música"
+   },
+   "msg61": {
+      "description": "Play Menu --> Devices",
+      "message": "Dispositius"
+   },
+   "msg62": {
+      "description": "Play Menu --> Play Store Links",
+      "message": "Enllaços Play Store"
+   },
+   "msg63": {
+      "description": "Play Menu --> Orders",
+      "message": "Comandes"
+   },
+   "msg64": {
+      "description": "Play Menu --> Settings",
+      "message": "Configuració"
+   },
+   "msg65": {
+      "description": "Play Menu --> My Content",
+      "message": "El meu contingut"
+   },
+   "msg66": {
+      "description": "Play Menu --> My Apps",
+      "message": "Les meves aplicacions"
+   },
+   "msg67": {
+      "description": "Play Menu --> My Books",
+      "message": "Els meus llibres"
+   },
+   "msg68": {
+      "description": "Play Menu --> My Magazines",
+      "message": "Les meves revistes"
+   },
+   "msg69": {
+      "description": "Play Menu --> My Movies & TV",
+      "message": "Les meves pel·lícules"
+   },
+   "msg7": {
+      "description": "Main Menu --> Gmail",
+      "message": "Gmail"
+   },
+   "msg70": {
+      "description": "Play Menu --> My Music",
+      "message": "La meva música"
+   },
+   "msg71": {
+      "description": "Play Menu --> My Devices",
+      "message": "Els meus dispositius"
+   },
+   "msg72": {
+      "description": "Youtube Menu --> Youtube",
+      "message": "Youtube"
+   },
+   "msg73": {
+      "description": "Youtube Menu --> Links",
+      "message": "Enllaços"
+   },
+   "msg74": {
+      "description": "Youtube Menu --> Watch later",
+      "message": "Veure més tard"
+   },
+   "msg75": {
+      "description": "Youtube Menu --> Playlists",
+      "message": "Llistes de reproducció"
+   },
+   "msg76": {
+      "description": "News Menu --> News",
+      "message": "Notícies"
+   },
+   "msg77": {
+      "description": "News Menu --> Links",
+      "message": "Enllaços"
+   },
+   "msg78": {
+      "description": "News Menu --> News archive",
+      "message": "Arxiu de notícies"
+   },
+   "msg79": {
+      "description": "News Menu --> Google Reader",
+      "message": "Google Reader"
+   },
+   "msg8": {
+      "description": "Main Menu --> Drive",
+      "message": "Drive"
+   },
+   "msg80": {
+      "description": "Gmail Menu --> Gmail",
+      "message": "Gmail"
+   },
+   "msg81": {
+      "description": "Gmail Menu --> All Mail",
+      "message": "Tots els missatges"
+   },
+   "msg82": {
+      "description": "Gmail Menu --> Inbox",
+      "message": "Safata d'entrada"
+   },
+   "msg83": {
+      "description": "Gmail Menu --> Unread",
+      "message": "Sense llegir"
+   },
+   "msg84": {
+      "description": "Gmail Menu --> Important",
+      "message": "Important"
+   },
+   "msg85": {
+      "description": "Gmail Menu --> Drafts",
+      "message": "Esborranys"
+   },
+   "msg86": {
+      "description": "Gmail Menu --> Spam",
+      "message": "Correu brossa"
+   },
+   "msg87": {
+      "description": "Gmail Menu --> Circles",
+      "message": "Cercles"
+   },
+   "msg88": {
+      "description": "Gmail Menu --> Anywhere",
+      "message": "En qualsevol lloc"
+   },
+   "msg89": {
+      "description": "Gmail Menu --> Sent Mail",
+      "message": "Enviats"
+   },
+   "msg9": {
+      "description": "Main Menu --> Calendar",
+      "message": "Calendari"
+   },
+   "msg90": {
+      "description": "Gmail Menu --> Read",
+      "message": "Llegits"
+   },
+   "msg91": {
+      "description": "Gmail Menu --> Starred",
+      "message": "Destacats"
+   },
+   "msg92": {
+      "description": "Gmail Menu --> Attachments",
+      "message": "Fitxers adjunts"
+   },
+   "msg93": {
+      "description": "Gmail Menu --> Trash",
+      "message": "Paperera"
+   },
+   "msg94": {
+      "description": "Gmail Menu --> Chats",
+      "message": "Xats"
+   },
+   "msg95": {
+      "description": "Gmail Menu --> Links",
+      "message": "Enllaços"
+   },
+   "msg96": {
+      "description": "Gmail Menu --> Compose",
+      "message": "Redacta"
+   },
+   "msg97": {
+      "description": "Gmail Menu --> Contacts",
+      "message": "Contactes"
+   },
+   "msg98": {
+      "description": "Drive Menu --> Drive",
+      "message": "Drive"
+   },
+   "msg99": {
+      "description": "Drive Menu --> Links",
+      "message": "Enllaços"
+   },
+   "pmsg0": {
+      "description": "Search Menu --> Search google...",
+      "message": "Cerca a Google..."
+   },
+   "pmsg1": {
+      "description": "Google+ Menu --> Search google plus...",
+      "message": "Cerca a Google Plus..."
+   },
+   "pmsg10": {
+      "description": "Reader Menu --> Search google reader...",
+      "message": "Cerca a Google Reader..."
+   },
+   "pmsg11": {
+      "description": "Popup news sections --> Insert custom sections...",
+      "message": "Insert custom sections..."
+   },
+   "pmsg2": {
+      "description": "Play Menu --> Search google play store...",
+      "message": "Cerca a Google Play Store..."
+   },
+   "pmsg3": {
+      "description": "News Menu --> Search google news...",
+      "message": "Cerca a Google Notícies..."
+   },
+   "pmsg4": {
+      "description": "Gmail Menu --> Search gmail...",
+      "message": "Cerca a Gmail..."
+   },
+   "pmsg5": {
+      "description": "Calendar Menu --> Search google calendar...",
+      "message": "Cerca a Google Calendar"
+   },
+   "pmsg6": {
+      "description": "Translate Menu --> Enter text to translate here...",
+      "message": "Introduïu aquí el text a traduir..."
+   },
+   "pmsg7": {
+      "description": "Maps Menu --> Search google maps...",
+      "message": "Cerca a Google Maps"
+   },
+   "pmsg8": {
+      "description": "Youtube Menu --> Search youtube...",
+      "message": "Cerca a Youtube"
+   },
+   "pmsg9": {
+      "description": "Drive Menu --> Search google drive...",
+      "message": "Cerca a Google Drive"
+   },
+   "tmsg0": {
+      "description": "Drive Menu --> New Document",
+      "message": "Nou document"
+   },
+   "tmsg1": {
+      "description": "Drive Menu --> New Presentation",
+      "message": "Nova presentació"
+   },
+   "tmsg10": {
+      "description": "Reader Switch --> Switch to News",
+      "message": "Canvia a Notícies"
+   },
+   "tmsg2": {
+      "description": "Drive Menu --> New Spreadsheet",
+      "message": "Nou full de càlcul"
+   },
+   "tmsg3": {
+      "description": "Drive Menu --> New Form",
+      "message": "Nou formulari"
+   },
+   "tmsg4": {
+      "description": "Drive Menu --> New Table",
+      "message": "Nova taula"
+   },
+   "tmsg5": {
+      "description": "Drive Menu --> New Drawing",
+      "message": "Nou dibuix"
+   },
+   "tmsg6": {
+      "description": "Drive Menu --> New Script",
+      "message": "Nou script"
+   },
+   "tmsg7": {
+      "description": "Calendar Menu --> Click to Expand",
+      "message": "Feu clic per ampliar"
+   },
+   "tmsg8": {
+      "description": "Calendar Menu --> Click to Collapse",
+      "message": "Feu click per reduïr"
+   },
+   "tmsg9": {
+      "description": "Reader Switch --> Switch to Reader",
+      "message": "Canvia a Reader"
+   }
+}

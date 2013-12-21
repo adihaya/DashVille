@@ -1,0 +1,181 @@
+body {
+  margin: 0 !important;
+  background-color: #e5e5e5;
+}
+#widget_bounds>div:last-child {
+  margin: 0 !important;
+  border: none !important;
+  background-color: transparent !important;
+  height: 100%;
+  width: 100%;
+  position: fixed;
+  top: 0px;
+  left: 0px;
+  overflow-y: auto;
+}
+#widget_bounds>div:last-child>div:not(.ZT1aye):not(.LImVUb):not(#blackMenuCommentsHeader):not(#blackMenuCommentDescription) {
+  display: none;
+}
+#widget_bounds>div:last-child>div {
+  border-left: 0px;
+  border-right: 0px;
+}
+.JTa {
+  word-wrap: break-word;
+  height: 100%;
+  box-sizing: border-box;
+  overflow: hidden;
+}
+.zPa.g9 {
+  display: block !important;
+  border: none;
+  background-color: #FFF;
+  box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
+  border-radius: 2px;
+  margin-bottom: 16px;
+  padding: 0px;
+  margin-left: 12px;
+  margin-right: 12px;
+}
+.iwJlcc {
+  display: none !important;
+}
+.NHuNc.xFtJ2c {
+  margin: -11px;
+  height: 0px;
+  overflow: hidden;
+}
+#blackMenuCommentsHeader {
+  box-sizing: border-box;
+  height: 88px;
+  overflow: hidden;
+  background-color: #FFF;
+  box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
+  border-radius: 2px;
+  margin-left: 12px;
+  margin-right: 12px;
+  margin-top: 12px;
+  padding: 15px;
+  height: 90px;
+}
+#blackMenuCommentDescription>img {
+  height: 16px;
+  width: 16px;
+  float: left;
+  padding-top: 6px;
+}
+#blackMenuCommentDescription>p {
+  margin-top: -3px;
+  margin-left: 25px;
+  white-space: nowrap;
+  text-overflow: ellipsis;
+  overflow: hidden;
+  font: 300 18px Roboto,arial,sans-serif;
+  color: #777;
+}
+#sharedThisPageHeader {
+  margin-left: 20px;
+}
+#___plusone_0.__web-inspector-hide-shortcut__ {
+  visibility: visible !important;
+}
+.__web-inspector-hide-shortcut__ iframe {
+  visibility: visible !important;
+}
+#___plusone_0 {
+  width: 100% !important;
+}
+#___plusone_0>iframe {
+  width: 100% !important;
+}
+
+iframe {
+  width: 100%;
+  border: 0px;
+}
+
+.d-k-l.d-y-r-c-ha::before {
+  content: "Top shares";
+  font-size: 13px !important;
+}
+.d-k-l.d-y-r-c-ha {
+  font-size: 0px !important;
+  height: 27px !important;
+}
+}
+.Pga.d-A:first-child .d-A-B {
+  font-size: 0px !important;
+}
+.Pga.d-A:first-child .d-A-B::before {
+  content: "Top Shares";
+  font-size: 13px !important;
+}
+
+
+::-webkit-scrollbar {
+  height: 16px;
+  width: 12px;
+}
+::-webkit-scrollbar-button {
+  height: 0;
+  width: 0;
+}
+::-webkit-scrollbar-button:start:decrement,::-webkit-scrollbar-button:end:increment {
+  display: block;
+}
+::-webkit-scrollbar-button:vertical:start:increment,::-webkit-scrollbar-button:vertical:end:decrement {
+  display: none;
+}
+::-webkit-scrollbar-track:vertical,::-webkit-scrollbar-track:horizontal,::-webkit-scrollbar-thumb:vertical,::-webkit-scrollbar-thumb:horizontal,::-webkit-scrollbar-track:vertical, ::-webkit-scrollbar-track:horizontal, ::-webkit-scrollbar-thumb:vertical, ::-webkit-scrollbar-thumb:horizontal {
+  border-style: solid;
+  border-color: transparent;
+}
+::-webkit-scrollbar-thumb {
+  -webkit-box-shadow: inset 1px 1px 0 rgba(0,0,0,.1),inset 0 -1px 0 rgba(0,0,0,.07);
+  background-clip: padding-box;
+  background-color: rgba(0,0,0,.2);
+  min-height: 28px;
+  padding-top: 100px;
+}
+::-webkit-scrollbar-thumb:hover {
+  -webkit-box-shadow: inset 1px 1px 1px rgba(0,0,0,.25);
+  background-color: rgba(0,0,0,.4);
+}
+::-webkit-scrollbar-thumb:active {
+  -webkit-box-shadow: inset 1px 1px 3px rgba(0,0,0,.35);
+  background-color: rgba(0,0,0,.5);
+}
+::-webkit-scrollbar-thumb:vertical {
+  border-width: 0;
+  border-left-width: 0px;
+}
+::-webkit-scrollbar-thumb:horizontal {
+  border-width: 0;
+  border-top-width: 5px;
+}
+::-webkit-scrollbar-track:vertical {
+  border-left-width: 1px;
+  border-right-width: 1px;
+}
+::-webkit-scrollbar-track:horizontal {
+  border-bottom: 1px;
+  border-top: 6px;
+}
+::-webkit-scrollbar-thumb:vertical {
+  border-width: 0;
+  border-left-width: 1px;
+  border-right-width: 1px;
+}
+::-webkit-scrollbar-thumb:horizontal {
+  border-width: 0;
+  border-bottom: 1px;
+  border-top: 6px;
+}
+::-webkit-scrollbar-track:hover {
+  -webkit-box-shadow: inset 1px 0 0 rgba(0,0,0,.1);
+  background-color: rgba(0,0,0,.05);
+}
+::-webkit-scrollbar-track:active {
+  -webkit-box-shadow: inset 1px 0 0 rgba(0,0,0,.14),inset -1px -1px 0 rgba(0,0,0,.07);
+  background-color: rgba(0,0,0,.05);
+}

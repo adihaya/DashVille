@@ -1,0 +1,6 @@
+#searchPage .content {
+  display: none;
+}
+#searchPage .content.on {
+  display: block;
+}

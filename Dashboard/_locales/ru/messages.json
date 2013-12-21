@@ -1,0 +1,830 @@
+{
+   "chromeLangLocation": {
+      "description": "The main location where this language is used",
+      "message": "Москва"
+   },
+   "extDescription": {
+      "description": "Extension Description",
+      "message": "Меню для доступа ко всем службам Google одним кликом."
+   },
+   "msg0": {
+      "description": "Main Menu --> Search",
+      "message": "Поиск"
+   },
+   "msg1": {
+      "description": "Main Menu --> Google+",
+      "message": "Google+"
+   },
+   "msg10": {
+      "description": "Main Menu --> More",
+      "message": "Больше"
+   },
+   "msg100": {
+      "description": "Drive Menu --> My Drive",
+      "message": "Мой Диск"
+   },
+   "msg101": {
+      "description": "Drive Menu --> Shared with me",
+      "message": "Поделились со мной"
+   },
+   "msg102": {
+      "description": "Drive Menu --> Starred",
+      "message": "Отмеченное"
+   },
+   "msg103": {
+      "description": "Drive Menu --> Recent",
+      "message": "Последнее"
+   },
+   "msg104": {
+      "description": "Drive Menu --> Activity",
+      "message": "Деятельность"
+   },
+   "msg105": {
+      "description": "Drive Menu --> All items",
+      "message": "Все"
+   },
+   "msg106": {
+      "description": "Drive Menu --> Trash",
+      "message": "Удаленные"
+   },
+   "msg107": {
+      "description": "Drive Menu --> Templates",
+      "message": "Шаблоны"
+   },
+   "msg108": {
+      "description": "Calendar Menu --> Calendar",
+      "message": "Календарь"
+   },
+   "msg109": {
+      "description": "Calendar Menu --> Tasks",
+      "message": "Задачи"
+   },
+   "msg11": {
+      "description": "Search Menu --> Google Search",
+      "message": "Поиск в Google"
+   },
+   "msg110": {
+      "description": "More Menu --> Adsense",
+      "message": "AdSense"
+   },
+   "msg111": {
+      "description": "More Menu --> Alerts",
+      "message": "Оповещения"
+   },
+   "msg112": {
+      "description": "More Menu --> App Engine",
+      "message": "App Engine"
+   },
+   "msg113": {
+      "description": "More Menu --> Chrome Web Store",
+      "message": "Chrome Web Store"
+   },
+   "msg114": {
+      "description": "More Menu --> Developers",
+      "message": "Разработчики"
+   },
+   "msg115": {
+      "description": "More Menu --> Offers",
+      "message": "Предложения"
+   },
+   "msg116": {
+      "description": "More Menu --> Scholar",
+      "message": "Академия"
+   },
+   "msg117": {
+      "description": "More Menu --> Url Shortener",
+      "message": "Сокращатель URL"
+   },
+   "msg118": {
+      "description": "More Menu --> Wallet",
+      "message": "Кошелек"
+   },
+   "msg119": {
+      "description": "More Menu --> Dashboard",
+      "message": "Личный кабинет"
+   },
+   "msg12": {
+      "description": "Search Menu --> Web",
+      "message": "Веб"
+   },
+   "msg120": {
+      "description": "More Menu --> Adwords",
+      "message": "Adwords"
+   },
+   "msg121": {
+      "description": "More Menu --> Analytics",
+      "message": "Аналитика"
+   },
+   "msg122": {
+      "description": "More Menu --> Blogger",
+      "message": "Blogger"
+   },
+   "msg123": {
+      "description": "More Menu --> Groups",
+      "message": "Группы"
+   },
+   "msg124": {
+      "description": "More Menu --> Finance",
+      "message": "Финансы"
+   },
+   "msg125": {
+      "description": "More Menu --> Picasa",
+      "message": "Picasa"
+   },
+   "msg126": {
+      "description": "More Menu --> Sites",
+      "message": "Сайты"
+   },
+   "msg127": {
+      "description": "More Menu --> Voice",
+      "message": "Voice"
+   },
+   "msg128": {
+      "description": "More Menu --> Webmaster Tools",
+      "message": "Инструменты веб-разработчика"
+   },
+   "msg129": {
+      "description": "More Menu --> Google Settings",
+      "message": "Настройки Google"
+   },
+   "msg13": {
+      "description": "Search Menu --> Videos",
+      "message": "Видео"
+   },
+   "msg130": {
+      "description": "More Menu --> About",
+      "message": "О расширении"
+   },
+   "msg131": {
+      "description": "About Menu --> About",
+      "message": "О расширении"
+   },
+   "msg132": {
+      "description": "About Menu --> thanks for installing this extension!",
+      "message": "Спасибо за установку этого расширения!"
+   },
+   "msg133": {
+      "description": "About Menu --> Links",
+      "message": "Связи"
+   },
+   "msg134": {
+      "description": "About Menu --> Donate",
+      "message": "Пожертвовать"
+   },
+   "msg135": {
+      "description": "About Menu --> Rate & review",
+      "message": "Оценить и оставить комментарий"
+   },
+   "msg136": {
+      "description": "About Menu --> Give feedback",
+      "message": "Напишите нам письмо"
+   },
+   "msg137": {
+      "description": "About Menu --> Contact me",
+      "message": "Свяжитесь со мной"
+   },
+   "msg138": {
+      "description": "About Menu --> Email",
+      "message": "E-mail"
+   },
+   "msg139": {
+      "description": "About Menu --> Google+",
+      "message": "Google+"
+   },
+   "msg14": {
+      "description": "Search Menu --> Shopping",
+      "message": "Покупка товаров"
+   },
+   "msg140": {
+      "description": "About Menu --> Thanks to",
+      "message": "Благодарим"
+   },
+   "msg141": {
+      "description": "About Menu --> The google icons in this extension are copyrighted by google",
+      "message": "Значки Google в этом расширении приндалежат корпорации Google"
+   },
+   "msg142": {
+      "description": "About Menu --> Help translating",
+      "message": "Помощь в переводе"
+   },
+   "msg143": {
+      "description": "About Menu --> Go Back",
+      "message": "Назад"
+   },
+   "msg144": {
+      "description": "Main Menu --> Reader",
+      "message": "Reader"
+   },
+   "msg145": {
+      "description": "Reader Menu --> Reader",
+      "message": "Google Reader"
+   },
+   "msg146": {
+      "description": "More Menu --> Settings",
+      "message": "Настройки"
+   },
+   "msg147": {
+      "description": "Settings Menu --> Go Back",
+      "message": "Назад"
+   },
+   "msg148": {
+      "description": "Settings Menu --> Settings",
+      "message": "Настройки"
+   },
+   "msg149": {
+      "description": "Settings Menu Main --> Generic",
+      "message": "Основные"
+   },
+   "msg15": {
+      "description": "Search Menu --> Places",
+      "message": "Места"
+   },
+   "msg150": {
+      "description": "Settings Menu Main --> Translate",
+      "message": "Переводчик"
+   },
+   "msg151": {
+      "description": "Settings Menu Main --> Maps",
+      "message": "Карты"
+   },
+   "msg152": {
+      "description": "Settings Menu Main --> News",
+      "message": "Новости"
+   },
+   "msg153": {
+      "description": "Settings Menu Main --> Calendar",
+      "message": "Календарь"
+   },
+   "msg154": {
+      "description": "Settings Menu Main --> Drive",
+      "message": "Диск"
+   },
+   "msg155": {
+      "description": "Settings Menu Generic --> Hide the black bar on all google websites",
+      "message": "Убрать черное меню со всех страниц Google"
+   },
+   "msg156": {
+      "description": "Settings Menu Generic --> Show unread counts for Google+, Gmail and Reader",
+      "message": "Показывать счетчик непрочитанных сообщений в Google+, Gmail и Reader"
+   },
+   "msg157": {
+      "description": "Settings Menu Translate --> Source language",
+      "message": "Язык оригинала"
+   },
+   "msg158": {
+      "description": "Settings Menu Translate--> Target language",
+      "message": "Язык перевода"
+   },
+   "msg159": {
+      "description": "Settings Menu Maps--> Map view",
+      "message": "Вид карты"
+   },
+   "msg16": {
+      "description": "Search Menu --> Discussions",
+      "message": "Дискуссии"
+   },
+   "msg160": {
+      "description": "Settings Menu Maps--> Show traffic",
+      "message": "Показывать трафик"
+   },
+   "msg161": {
+      "description": "Settings Menu Maps --> Default location",
+      "message": "Местоположение по умолчанию"
+   },
+   "msg162": {
+      "description": "Settings Menu News --> News edition",
+      "message": "Версия"
+   },
+   "msg163": {
+      "description": "Settings Menu News --> Image visibility",
+      "message": "Показывать картинки"
+   },
+   "msg164": {
+      "description": "Settings Menu News --> Number of items to display",
+      "message": "Количество отображаемых статей"
+   },
+   "msg165": {
+      "description": "Settings Menu News --> Hide bottom links",
+      "message": "Скрыть ссылки внизу"
+   },
+   "msg166": {
+      "description": "Settings Menu Calendar --> Show empty days",
+      "message": "Показывать пустые дни"
+   },
+   "msg167": {
+      "description": "Settings Menu Calendar --> Expand the tasks panel by default",
+      "message": "Развернуть все панели задач по умолчанию"
+   },
+   "msg168": {
+      "description": "Settings Menu Drive --> View preference",
+      "message": "Предпочтения"
+   },
+   "msg169": {
+      "description": "Settings Menu Translate Targetlanguage --> Chrome language",
+      "message": "Язык Chrome"
+   },
+   "msg17": {
+      "description": "Search Menu --> Patents",
+      "message": "Патенты"
+   },
+   "msg170": {
+      "description": "Settings Menu Translate Sourcelanguage --> Auto detect",
+      "message": "Автоматическое определение"
+   },
+   "msg171": {
+      "description": "Settings Menu Maps Mapview --> Roadmap",
+      "message": "Транспорт"
+   },
+   "msg172": {
+      "description": "Settings Menu Maps Mapview --> Terrain",
+      "message": "Рельеф"
+   },
+   "msg173": {
+      "description": "Settings Menu Maps Mapview --> Satellite",
+      "message": "Спутник"
+   },
+   "msg174": {
+      "description": "Settings Menu Maps Mapview --> Hybrid",
+      "message": "Гибрид"
+   },
+   "msg175": {
+      "description": "Settings Menu News Imagevisibility --> Show headline images only",
+      "message": "Показать только изображение заголовка"
+   },
+   "msg176": {
+      "description": "Settings Menu News Imagevisibility --> Show all images",
+      "message": "Показать все изображения"
+   },
+   "msg177": {
+      "description": "Settings Menu News Imagevisibility --> Hide all images",
+      "message": "Скрыть все изображения"
+   },
+   "msg178": {
+      "description": "Settings Menu Drive Viewpreference --> Opened by me",
+      "message": "Открыто мной"
+   },
+   "msg179": {
+      "description": "Settings Menu Drive Viewpreference --> Owned by me",
+      "message": "Сделано мной"
+   },
+   "msg18": {
+      "description": "Search Menu --> Flights",
+      "message": "Авиабилеты"
+   },
+   "msg180": {
+      "description": "Settings Menu Drive Viewpreference --> Starred",
+      "message": "Отмеченное"
+   },
+   "msg181": {
+      "description": "Settings Menu Main --> Gmail",
+      "message": "Gmail"
+   },
+   "msg182": {
+      "description": "Settings Menu Gmail --> Open compose in a popup/panel",
+      "message": "Открыть окно написания письма в окне/панели"
+   },
+   "msg19": {
+      "description": "Search Menu --> Images",
+      "message": "Картинки"
+   },
+   "msg2": {
+      "description": "Main Menu --> Translate",
+      "message": "Переводчик"
+   },
+   "msg20": {
+      "description": "Search Menu --> News",
+      "message": "Новости"
+   },
+   "msg21": {
+      "description": "Search Menu --> Books",
+      "message": "Книги"
+   },
+   "msg22": {
+      "description": "Search Menu --> Blogs",
+      "message": "Блоги"
+   },
+   "msg23": {
+      "description": "Search Menu --> Recipes",
+      "message": "Рецепты"
+   },
+   "msg24": {
+      "description": "Search Menu --> Applications",
+      "message": "Приложения"
+   },
+   "msg25": {
+      "description": "Search Menu --> Maps",
+      "message": "Карты"
+   },
+   "msg26": {
+      "description": "Search Menu --> Links",
+      "message": "Ссылки"
+   },
+   "msg27": {
+      "description": "Search Menu --> Trends",
+      "message": "Тренды"
+   },
+   "msg28": {
+      "description": "Search Menu --> Custom Search",
+      "message": "Пользовательский поиск"
+   },
+   "msg29": {
+      "description": "Google+ Menu --> Google Plus",
+      "message": "Google+"
+   },
+   "msg3": {
+      "description": "Main Menu --> Maps",
+      "message": "Карты"
+   },
+   "msg30": {
+      "description": "Google+ Menu --> Everywhere",
+      "message": "Везде"
+   },
+   "msg31": {
+      "description": "Google+ Menu --> Communities",
+      "message": "Communities"
+   },
+   "msg32": {
+      "description": "Google+ Menu --> Events",
+      "message": "События"
+   },
+   "msg33": {
+      "description": "Google+ Menu --> Posts",
+      "message": "Посты"
+   },
+   "msg34": {
+      "description": "Google+ Menu --> Hangouts",
+      "message": "Видеовстречи"
+   },
+   "msg35": {
+      "description": "Google+ Menu --> People and Pages",
+      "message": "Люди и страницы"
+   },
+   "msg36": {
+      "description": "Google+ Menu --> Links",
+      "message": "Связи"
+   },
+   "msg37": {
+      "description": "Google+ Menu --> Home",
+      "message": "Главная"
+   },
+   "msg38": {
+      "description": "Google+ Menu --> Pages",
+      "message": "Страницы"
+   },
+   "msg39": {
+      "description": "Google+ Menu --> Profile",
+      "message": "Профиль"
+   },
+   "msg4": {
+      "description": "Main Menu --> Play",
+      "message": "Play"
+   },
+   "msg40": {
+      "description": "Google+ Menu --> Events",
+      "message": "События"
+   },
+   "msg41": {
+      "description": "Google+ Menu --> Explore",
+      "message": "Обзор"
+   },
+   "msg42": {
+      "description": "Google+ Menu --> Hangouts",
+      "message": "Видеовстречи"
+   },
+   "msg43": {
+      "description": "Google+ Menu --> Local",
+      "message": "Рекомендованные места"
+   },
+   "msg44": {
+      "description": "Google+ Menu --> Photos",
+      "message": "Фотографии"
+   },
+   "msg45": {
+      "description": "Google+ Menu --> Circles",
+      "message": "Круги"
+   },
+   "msg46": {
+      "description": "Google+ Menu --> Games",
+      "message": "Игры"
+   },
+   "msg47": {
+      "description": "Translate Menu --> Translate",
+      "message": "Перевести"
+   },
+   "msg48": {
+      "description": "Translate Menu --> Links",
+      "message": "Связи"
+   },
+   "msg49": {
+      "description": "Translate Menu --> Transliteration",
+      "message": "Инструменты переводчика"
+   },
+   "msg5": {
+      "description": "Main Menu --> Youtube",
+      "message": "YouTube"
+   },
+   "msg50": {
+      "description": "Translate Menu --> Transliteration",
+      "message": "Транслитерация"
+   },
+   "msg51": {
+      "description": "Maps Menu --> Maps",
+      "message": "Карты"
+   },
+   "msg52": {
+      "description": "Maps Menu --> Links",
+      "message": "Связи"
+   },
+   "msg53": {
+      "description": "Maps Menu --> Latitude",
+      "message": "Локатор"
+   },
+   "msg54": {
+      "description": "Maps Menu --> Mapmaker",
+      "message": "Map Maker"
+   },
+   "msg55": {
+      "description": "Play Menu --> Google Play Store",
+      "message": "Google Play"
+   },
+   "msg56": {
+      "description": "Play Menu --> Apps",
+      "message": "Приложения"
+   },
+   "msg57": {
+      "description": "Play Menu --> Books",
+      "message": "Книги"
+   },
+   "msg58": {
+      "description": "Play Menu --> Magazines",
+      "message": "Журналы,"
+   },
+   "msg59": {
+      "description": "Play Menu --> Movies & TV",
+      "message": "Фильмы и ТВ"
+   },
+   "msg6": {
+      "description": "Main Menu --> News",
+      "message": "Новости"
+   },
+   "msg60": {
+      "description": "Play Menu --> Music",
+      "message": "Музыка"
+   },
+   "msg61": {
+      "description": "Play Menu --> Devices",
+      "message": "Устройства"
+   },
+   "msg62": {
+      "description": "Play Menu --> Play Store Links",
+      "message": "Ссылки в Google Play"
+   },
+   "msg63": {
+      "description": "Play Menu --> Orders",
+      "message": "Заказы"
+   },
+   "msg64": {
+      "description": "Play Menu --> Settings",
+      "message": "Настройки"
+   },
+   "msg65": {
+      "description": "Play Menu --> My Content",
+      "message": "Мой контент"
+   },
+   "msg66": {
+      "description": "Play Menu --> My Apps",
+      "message": "Мои приложения"
+   },
+   "msg67": {
+      "description": "Play Menu --> My Books",
+      "message": "Мои книги"
+   },
+   "msg68": {
+      "description": "Play Menu --> My Magazines",
+      "message": "Мой журналы"
+   },
+   "msg69": {
+      "description": "Play Menu --> My Movies & TV",
+      "message": "Мои фильмы и ТВ"
+   },
+   "msg7": {
+      "description": "Main Menu --> Gmail",
+      "message": "Gmail"
+   },
+   "msg70": {
+      "description": "Play Menu --> My Music",
+      "message": "Моя музыка"
+   },
+   "msg71": {
+      "description": "Play Menu --> My Devices",
+      "message": "Мои устройства"
+   },
+   "msg72": {
+      "description": "Youtube Menu --> Youtube",
+      "message": "YouTube"
+   },
+   "msg73": {
+      "description": "Youtube Menu --> Links",
+      "message": "Связи"
+   },
+   "msg74": {
+      "description": "Youtube Menu --> Watch later",
+      "message": "Посмотреть позже"
+   },
+   "msg75": {
+      "description": "Youtube Menu --> Playlists",
+      "message": "Плейлисты"
+   },
+   "msg76": {
+      "description": "News Menu --> News",
+      "message": "Новости"
+   },
+   "msg77": {
+      "description": "News Menu --> Links",
+      "message": "Связи"
+   },
+   "msg78": {
+      "description": "News Menu --> News archive",
+      "message": "Архив новостей"
+   },
+   "msg79": {
+      "description": "News Menu --> Google Reader",
+      "message": "Google Reader"
+   },
+   "msg8": {
+      "description": "Main Menu --> Drive",
+      "message": "Диск"
+   },
+   "msg80": {
+      "description": "Gmail Menu --> Gmail",
+      "message": "Gmail"
+   },
+   "msg81": {
+      "description": "Gmail Menu --> All Mail",
+      "message": "Вся почта"
+   },
+   "msg82": {
+      "description": "Gmail Menu --> Inbox",
+      "message": "Входящие"
+   },
+   "msg83": {
+      "description": "Gmail Menu --> Unread",
+      "message": "Не прочитано"
+   },
+   "msg84": {
+      "description": "Gmail Menu --> Important",
+      "message": "Важное"
+   },
+   "msg85": {
+      "description": "Gmail Menu --> Drafts",
+      "message": "Черновики"
+   },
+   "msg86": {
+      "description": "Gmail Menu --> Spam",
+      "message": "Спам"
+   },
+   "msg87": {
+      "description": "Gmail Menu --> Circles",
+      "message": "Круги"
+   },
+   "msg88": {
+      "description": "Gmail Menu --> Anywhere",
+      "message": "Везде"
+   },
+   "msg89": {
+      "description": "Gmail Menu --> Sent Mail",
+      "message": "Отправленные"
+   },
+   "msg9": {
+      "description": "Main Menu --> Calendar",
+      "message": "Календарь"
+   },
+   "msg90": {
+      "description": "Gmail Menu --> Read",
+      "message": "Чтение"
+   },
+   "msg91": {
+      "description": "Gmail Menu --> Starred",
+      "message": "Отмеченные"
+   },
+   "msg92": {
+      "description": "Gmail Menu --> Attachments",
+      "message": "Приложения"
+   },
+   "msg93": {
+      "description": "Gmail Menu --> Trash",
+      "message": "Удаленные"
+   },
+   "msg94": {
+      "description": "Gmail Menu --> Chats",
+      "message": "Чаты"
+   },
+   "msg95": {
+      "description": "Gmail Menu --> Links",
+      "message": "Связи"
+   },
+   "msg96": {
+      "description": "Gmail Menu --> Compose",
+      "message": "Написать"
+   },
+   "msg97": {
+      "description": "Gmail Menu --> Contacts",
+      "message": "Контакты"
+   },
+   "msg98": {
+      "description": "Drive Menu --> Drive",
+      "message": "Диск"
+   },
+   "msg99": {
+      "description": "Drive Menu --> Links",
+      "message": "Связи"
+   },
+   "pmsg0": {
+      "description": "Search Menu --> Search google...",
+      "message": "Поиск Google..."
+   },
+   "pmsg1": {
+      "description": "Google+ Menu --> Search google plus...",
+      "message": "Поиск в Google Plus..."
+   },
+   "pmsg10": {
+      "description": "Reader Menu --> Search google reader...",
+      "message": "Поиск в Reader..."
+   },
+   "pmsg2": {
+      "description": "Play Menu --> Search google play store...",
+      "message": "Поиск в Google Play..."
+   },
+   "pmsg3": {
+      "description": "News Menu --> Search google news...",
+      "message": "Поиск новостей..."
+   },
+   "pmsg4": {
+      "description": "Gmail Menu --> Search gmail...",
+      "message": "Поиск в Gmail ..."
+   },
+   "pmsg5": {
+      "description": "Calendar Menu --> Search google calendar...",
+      "message": "Поиск в Google Calendar..."
+   },
+   "pmsg6": {
+      "description": "Translate Menu --> Enter text to translate here...",
+      "message": "Перевести..."
+   },
+   "pmsg7": {
+      "description": "Maps Menu --> Search google maps...",
+      "message": "Поиск места..."
+   },
+   "pmsg8": {
+      "description": "Youtube Menu --> Search youtube...",
+      "message": "Поиск на YouTube..."
+   },
+   "pmsg9": {
+      "description": "Drive Menu --> Search google drive...",
+      "message": "Поиск в Google Диске..."
+   },
+   "tmsg0": {
+      "description": "Drive Menu --> New Document",
+      "message": "Новый документ"
+   },
+   "tmsg1": {
+      "description": "Drive Menu --> New Presentation",
+      "message": "Новая презентация"
+   },
+   "tmsg10": {
+      "description": "Reader Switch --> Switch to News",
+      "message": "Перейти в новости"
+   },
+   "tmsg2": {
+      "description": "Drive Menu --> New Spreadsheet",
+      "message": "Новая таблица"
+   },
+   "tmsg3": {
+      "description": "Drive Menu --> New Form",
+      "message": "Новая форма"
+   },
+   "tmsg4": {
+      "description": "Drive Menu --> New Table",
+      "message": "Новая таблица"
+   },
+   "tmsg5": {
+      "description": "Drive Menu --> New Drawing",
+      "message": "Новый рисунок"
+   },
+   "tmsg6": {
+      "description": "Drive Menu --> New Script",
+      "message": "Новый скрипт"
+   },
+   "tmsg7": {
+      "description": "Calendar Menu --> Click to Expand",
+      "message": "Нажмите, чтобы развернуть"
+   },
+   "tmsg8": {
+      "description": "Calendar Menu --> Click to Collapse",
+      "message": "Нажмите, чтобы свернуть"
+   },
+   "tmsg9": {
+      "description": "Reader Switch --> Switch to Reader",
+      "message": "Перейти в Reader"
+   }
+}

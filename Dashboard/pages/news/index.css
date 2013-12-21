@@ -1,0 +1,19 @@
+#newsPage .card header {
+  height: 80px;
+}
+#newsPage .card header.hasImage {
+  padding-left: 80px;
+}
+#newsPage .card .imageContainer {
+  margin-left: -80px;
+  float: left;
+  background-color: whiteSmoke;
+  display: table;
+  height: 80px;
+  width: 80px;
+}
+#newsPage .card .imageContainer>div {
+  display: table-cell;
+  vertical-align: middle;
+  text-align: center;
+}

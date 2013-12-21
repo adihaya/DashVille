@@ -1,0 +1,81 @@
+#youtubePage .card {
+  overflow: hidden;
+}
+#youtubePage .card>div {
+  float: left;
+}
+#youtubePage .view {
+  display: none;
+}
+#youtubePage .view.on {
+  display: block;
+}
+#youtubePage .descriptionContainer {
+  width: calc(100% - 121px);
+}
+#youtubePage .imageContainer {
+  height: 90px;
+  width: 120px;
+  background-color: #000;
+  border-right: 1px solid black;
+  margin-top: -2px;
+  margin-bottom: -1px;
+}
+#youtubePage .imageContainer::before {
+  content: attr(data-duration);
+  float: right;
+  background-color: rgba(0, 0, 0, 0.54);
+  color: #fff;
+  position: relative;
+  font-size: 12px;
+  top: 72px;
+  padding-bottom: 2px;
+  padding-right: 3px;
+}
+#youtubePage .backButton {
+  min-width: 60px;
+}
+#youtubePage .videoPlayerTitle {
+  display: inline-block;
+  width: calc(100% - 137px);
+  color: #555;
+  font: normal 14px arial,sans-serif;
+  font-family: roboto,arial,sans-serif;
+  margin: 0px;
+  text-align: center;
+  overflow: hidden;
+  text-overflow: ellipsis;
+  white-space: nowrap;
+  height: 27px;
+  line-height: 27px;
+}
+#youtubePage .videoPlayerFrame {
+  background-color: black;
+}
+#youtubePage .card h3 {
+  font-size: 16px;
+}
+#youtubePage .commentsSection {
+  z-index: 12;
+}
+#youtubePage .commentsSection iframe {
+  height: calc(100% - 57px);
+}
+#youtubePage .card:hover .openInNewTab {
+  display: block;
+}
+#youtubePage .openInNewTab {
+  position: absolute;
+  background-image: url(https://ssl.gstatic.com/mail/sprites/general-f471e1516770e9528f3dcf0a635516de.png);
+  height: 24px;
+  width: 24px;
+  right: 0px;
+  top: 0px;
+  background-position-y: -350px;
+  opacity: .4;
+  cursor: pointer;
+  display: none;
+}
+#youtubePage .openInNewTab:hover {
+  opacity: .9;
+}

@@ -1,0 +1,786 @@
+{
+   "chromeLangLocation": {
+      "description": "The main location where this language is used",
+      "message": "China"
+   },
+   "extDescription": {
+      "description": "Extension Description",
+      "message": "仅需一个点击，一个菜单访问所有您喜爱的Google服务。"
+   },
+   "msg0": {
+      "description": "Main Menu --> Search",
+      "message": "搜索"
+   },
+   "msg1": {
+      "description": "Main Menu --> Google+",
+      "message": "Google+"
+   },
+   "msg10": {
+      "description": "Main Menu --> More",
+      "message": "更多"
+   },
+   "msg100": {
+      "description": "Drive Menu --> My Drive",
+      "message": "我的云端硬盘"
+   },
+   "msg101": {
+      "description": "Drive Menu --> Shared with me",
+      "message": "与我共享"
+   },
+   "msg102": {
+      "description": "Drive Menu --> Starred",
+      "message": "已加星标"
+   },
+   "msg103": {
+      "description": "Drive Menu --> Recent",
+      "message": "最近"
+   },
+   "msg104": {
+      "description": "Drive Menu --> Activity",
+      "message": "活动"
+   },
+   "msg105": {
+      "description": "Drive Menu --> All items",
+      "message": "所有项目"
+   },
+   "msg106": {
+      "description": "Drive Menu --> Trash",
+      "message": "回收站"
+   },
+   "msg107": {
+      "description": "Drive Menu --> Templates",
+      "message": "模板"
+   },
+   "msg108": {
+      "description": "Calendar Menu --> Calendar",
+      "message": "日历"
+   },
+   "msg109": {
+      "description": "Calendar Menu --> Tasks",
+      "message": "任务"
+   },
+   "msg11": {
+      "description": "Search Menu --> Google Search",
+      "message": "Google 搜索"
+   },
+   "msg110": {
+      "description": "More Menu --> Adsense",
+      "message": "广告"
+   },
+   "msg111": {
+      "description": "More Menu --> Alerts",
+      "message": "快讯"
+   },
+   "msg112": {
+      "description": "More Menu --> App Engine",
+      "message": "App Engine"
+   },
+   "msg113": {
+      "description": "More Menu --> Chrome Web Store",
+      "message": "Chrome 网上应用店"
+   },
+   "msg114": {
+      "description": "More Menu --> Developers",
+      "message": "开发者"
+   },
+   "msg115": {
+      "description": "More Menu --> Offers",
+      "message": "优惠"
+   },
+   "msg116": {
+      "description": "More Menu --> Scholar",
+      "message": "学术搜索"
+   },
+   "msg117": {
+      "description": "More Menu --> Url Shortener",
+      "message": "网址缩短"
+   },
+   "msg118": {
+      "description": "More Menu --> Wallet",
+      "message": "电子钱包"
+   },
+   "msg119": {
+      "description": "More Menu --> Dashboard",
+      "message": "信息中心"
+   },
+   "msg12": {
+      "description": "Search Menu --> Web",
+      "message": "网络"
+   },
+   "msg120": {
+      "description": "More Menu --> Adwords",
+      "message": "AdWords"
+   },
+   "msg121": {
+      "description": "More Menu --> Analytics",
+      "message": "Analytics"
+   },
+   "msg122": {
+      "description": "More Menu --> Blogger",
+      "message": "Blogger"
+   },
+   "msg123": {
+      "description": "More Menu --> Custom Search",
+      "message": "自定义搜索"
+   },
+   "msg124": {
+      "description": "More Menu --> Finance",
+      "message": "财经"
+   },
+   "msg125": {
+      "description": "More Menu --> Picasa",
+      "message": "Picasa"
+   },
+   "msg126": {
+      "description": "More Menu --> Sites",
+      "message": "Sites"
+   },
+   "msg127": {
+      "description": "More Menu --> Voice",
+      "message": "Voice"
+   },
+   "msg128": {
+      "description": "More Menu --> Webmaster Tools",
+      "message": "网站管理员工具"
+   },
+   "msg129": {
+      "description": "More Menu --> Google Settings",
+      "message": "Google 设置"
+   },
+   "msg13": {
+      "description": "Search Menu --> Videos",
+      "message": "视频"
+   },
+   "msg130": {
+      "description": "More Menu --> About",
+      "message": "关于"
+   },
+   "msg131": {
+      "description": "About Menu --> About",
+      "message": "关于"
+   },
+   "msg132": {
+      "description": "About Menu --> thanks for installing this extension!",
+      "message": "感谢您安装此扩展！"
+   },
+   "msg133": {
+      "description": "About Menu --> Links",
+      "message": "链接"
+   },
+   "msg134": {
+      "description": "About Menu --> Donate",
+      "message": "捐赠"
+   },
+   "msg135": {
+      "description": "About Menu --> Rate & review",
+      "message": "评分及评论"
+   },
+   "msg136": {
+      "description": "About Menu --> Give feedback",
+      "message": "提供反馈意见"
+   },
+   "msg137": {
+      "description": "About Menu --> Contact me",
+      "message": "联系我们"
+   },
+   "msg138": {
+      "description": "About Menu --> Email",
+      "message": "邮箱"
+   },
+   "msg139": {
+      "description": "About Menu --> Google+",
+      "message": "Google+"
+   },
+   "msg14": {
+      "description": "Search Menu --> Shopping",
+      "message": "购物"
+   },
+   "msg140": {
+      "description": "About Menu --> Thanks to",
+      "message": "感谢"
+   },
+   "msg141": {
+      "description": "About Menu --> The google icons in this extension are copyrighted by google",
+      "message": "此扩展中所用到的 Google 图标版权归 Google 所有。"
+   },
+   "msg142": {
+      "description": "About Menu --> Help translating",
+      "message": "帮助翻译"
+   },
+   "msg143": {
+      "description": "About Menu --> Go Back",
+      "message": "返回"
+   },
+   "msg144": {
+      "description": "Main Menu --> Reader",
+      "message": "阅读器"
+   },
+   "msg145": {
+      "description": "Reader Menu --> Google Reader",
+      "message": "Google 阅读器"
+   },
+   "msg149": {
+      "description": "Settings Menu Main --> Generic",
+      "message": "常规"
+   },
+   "msg15": {
+      "description": "Search Menu --> Places",
+      "message": "地点"
+   },
+   "msg155": {
+      "description": "Settings Menu Generic --> Hide the black bar on all google websites",
+      "message": "隐藏所有谷歌网站上的黑条"
+   },
+   "msg156": {
+      "description": "Settings Menu Generic --> Show unread counts for Google+, Gmail and Reader",
+      "message": "显示 Google+、Gmail 和阅读器的未读数目"
+   },
+   "msg157": {
+      "description": "Settings Menu Translate --> Source language",
+      "message": "原始语言"
+   },
+   "msg158": {
+      "description": "Settings Menu Translate--> Target language",
+      "message": "目标语言"
+   },
+   "msg159": {
+      "description": "Settings Menu Maps--> Map view",
+      "message": "地图视图"
+   },
+   "msg16": {
+      "description": "Search Menu --> Discussions",
+      "message": "讨论"
+   },
+   "msg160": {
+      "description": "Settings Menu Maps--> Show traffic",
+      "message": "显示路况"
+   },
+   "msg161": {
+      "description": "Settings Menu Maps --> Default location",
+      "message": "默认位置"
+   },
+   "msg162": {
+      "description": "Settings Menu News --> News edition",
+      "message": "新闻剪报"
+   },
+   "msg163": {
+      "description": "Settings Menu News --> Image visibility",
+      "message": "图片可见性"
+   },
+   "msg164": {
+      "description": "Settings Menu News --> Number of items to display",
+      "message": "显示的条目数量"
+   },
+   "msg165": {
+      "description": "Settings Menu News --> Hide bottom links",
+      "message": "隐藏底部链接"
+   },
+   "msg166": {
+      "description": "Settings Menu Calendar --> Show empty days",
+      "message": "显示空天"
+   },
+   "msg167": {
+      "description": "Settings Menu Calendar --> Expand the tasks panel by default",
+      "message": "默认展开任务面板"
+   },
+   "msg168": {
+      "description": "Settings Menu Drive --> View preference",
+      "message": "查看偏好"
+   },
+   "msg169": {
+      "description": "Settings Menu Translate Targetlanguage --> Chrome language",
+      "message": "Chrome 语言"
+   },
+   "msg17": {
+      "description": "Search Menu --> Patents",
+      "message": "专利"
+   },
+   "msg170": {
+      "description": "Settings Menu Translate Sourcelanguage --> Auto detect",
+      "message": "自动检测"
+   },
+   "msg171": {
+      "description": "Settings Menu Maps Mapview --> Roadmap",
+      "message": "路线"
+   },
+   "msg172": {
+      "description": "Settings Menu Maps Mapview --> Terrain",
+      "message": "地形"
+   },
+   "msg173": {
+      "description": "Settings Menu Maps Mapview --> Satellite",
+      "message": "卫星"
+   },
+   "msg174": {
+      "description": "Settings Menu Maps Mapview --> Hybrid",
+      "message": "混合"
+   },
+   "msg175": {
+      "description": "Settings Menu News Imagevisibility --> Show headline images only",
+      "message": "仅显示头条图片"
+   },
+   "msg176": {
+      "description": "Settings Menu News Imagevisibility --> Show all images",
+      "message": "显示所有图片"
+   },
+   "msg177": {
+      "description": "Settings Menu News Imagevisibility --> Hide all images",
+      "message": "隐藏所有图片"
+   },
+   "msg178": {
+      "description": "Settings Menu Drive Viewpreference --> Opened by me",
+      "message": "由我打开"
+   },
+   "msg179": {
+      "description": "Settings Menu Drive Viewpreference --> Owned by me",
+      "message": "我所拥有的"
+   },
+   "msg18": {
+      "description": "Search Menu --> Flights",
+      "message": "航班"
+   },
+   "msg180": {
+      "description": "Settings Menu Drive Viewpreference --> Starred",
+      "message": "已加星标"
+   },
+   "msg181": {
+      "description": "Settings Menu Main --> Gmail",
+      "message": "Gmail"
+   },
+   "msg182": {
+      "description": "Settings Menu Gmail --> Open compose in a popup/panel",
+      "message": "在弹窗/面板中打开图表"
+   },
+   "msg19": {
+      "description": "Search Menu --> Images",
+      "message": "图片"
+   },
+   "msg2": {
+      "description": "Main Menu --> Translate",
+      "message": "翻译"
+   },
+   "msg20": {
+      "description": "Search Menu --> News",
+      "message": "新闻"
+   },
+   "msg21": {
+      "description": "Search Menu --> Books",
+      "message": "书籍"
+   },
+   "msg22": {
+      "description": "Search Menu --> Blogs",
+      "message": "博客"
+   },
+   "msg23": {
+      "description": "Search Menu --> Recipes",
+      "message": "食谱"
+   },
+   "msg24": {
+      "description": "Search Menu --> Applications",
+      "message": "应用"
+   },
+   "msg25": {
+      "description": "Search Menu --> Maps",
+      "message": "地图"
+   },
+   "msg26": {
+      "description": "Search Menu --> Links",
+      "message": "链接"
+   },
+   "msg27": {
+      "description": "Search Menu --> Trends",
+      "message": "趋势"
+   },
+   "msg28": {
+      "description": "Search Menu --> Custom Search",
+      "message": "自定义搜索"
+   },
+   "msg29": {
+      "description": "Google+ Menu --> Google Plus",
+      "message": "Google+"
+   },
+   "msg3": {
+      "description": "Main Menu --> Maps",
+      "message": "地图"
+   },
+   "msg30": {
+      "description": "Google+ Menu --> Everywhere",
+      "message": "任何地方"
+   },
+   "msg31": {
+      "description": "Google+ Menu --> Communities",
+      "message": "Communities"
+   },
+   "msg32": {
+      "description": "Google+ Menu --> Events",
+      "message": "活动"
+   },
+   "msg33": {
+      "description": "Google+ Menu --> Posts",
+      "message": "帖子"
+   },
+   "msg34": {
+      "description": "Google+ Menu --> Hangouts",
+      "message": "环聊"
+   },
+   "msg35": {
+      "description": "Google+ Menu --> People and Pages",
+      "message": "人与信息页"
+   },
+   "msg36": {
+      "description": "Google+ Menu --> Links",
+      "message": "链接"
+   },
+   "msg37": {
+      "description": "Google+ Menu --> Home",
+      "message": "首页"
+   },
+   "msg38": {
+      "description": "Google+ Menu --> Pages",
+      "message": "信息页"
+   },
+   "msg39": {
+      "description": "Google+ Menu --> Profile",
+      "message": "个人资料"
+   },
+   "msg4": {
+      "description": "Main Menu --> Play",
+      "message": "Play"
+   },
+   "msg40": {
+      "description": "Google+ Menu --> Events",
+      "message": "活动"
+   },
+   "msg41": {
+      "description": "Google+ Menu --> Explore",
+      "message": "探索"
+   },
+   "msg42": {
+      "description": "Google+ Menu --> Hangouts",
+      "message": "环聊"
+   },
+   "msg43": {
+      "description": "Google+ Menu --> Local",
+      "message": "本地"
+   },
+   "msg44": {
+      "description": "Google+ Menu --> Photos",
+      "message": "照片"
+   },
+   "msg45": {
+      "description": "Google+ Menu --> Circles",
+      "message": "圈子"
+   },
+   "msg46": {
+      "description": "Google+ Menu --> Games",
+      "message": "游戏"
+   },
+   "msg47": {
+      "description": "Translate Menu --> Translate",
+      "message": "翻译"
+   },
+   "msg48": {
+      "description": "Translate Menu --> Links",
+      "message": "链接"
+   },
+   "msg49": {
+      "description": "Translate Menu --> Transliteration",
+      "message": "译者工具包"
+   },
+   "msg5": {
+      "description": "Main Menu --> Youtube",
+      "message": "YouTube"
+   },
+   "msg50": {
+      "description": "Translate Menu --> Transliteration",
+      "message": "音译"
+   },
+   "msg51": {
+      "description": "Maps Menu --> Maps",
+      "message": "地图"
+   },
+   "msg52": {
+      "description": "Maps Menu --> Links",
+      "message": "链接"
+   },
+   "msg53": {
+      "description": "Maps Menu --> Latitude",
+      "message": "纵横"
+   },
+   "msg54": {
+      "description": "Maps Menu --> Mapmaker",
+      "message": "制图工具"
+   },
+   "msg55": {
+      "description": "Play Menu --> Google Play Store",
+      "message": "Google Play 商店"
+   },
+   "msg56": {
+      "description": "Play Menu --> Apps",
+      "message": "应用"
+   },
+   "msg57": {
+      "description": "Play Menu --> Books",
+      "message": "书籍"
+   },
+   "msg58": {
+      "description": "Play Menu --> Magazines",
+      "message": "杂志"
+   },
+   "msg59": {
+      "description": "Play Menu --> Movies & TV",
+      "message": "电影及电视"
+   },
+   "msg6": {
+      "description": "Main Menu --> News",
+      "message": "新闻 "
+   },
+   "msg60": {
+      "description": "Play Menu --> Music",
+      "message": "音乐"
+   },
+   "msg61": {
+      "description": "Play Menu --> Devices",
+      "message": "设备"
+   },
+   "msg62": {
+      "description": "Play Menu --> Play Store Links",
+      "message": "Play 商店链接"
+   },
+   "msg63": {
+      "description": "Play Menu --> Orders",
+      "message": "订单"
+   },
+   "msg64": {
+      "description": "Play Menu --> Settings",
+      "message": "设置"
+   },
+   "msg65": {
+      "description": "Play Menu --> My Content",
+      "message": "我的内容"
+   },
+   "msg66": {
+      "description": "Play Menu --> My Apps",
+      "message": "我的应用"
+   },
+   "msg67": {
+      "description": "Play Menu --> My Books",
+      "message": "我的书籍"
+   },
+   "msg68": {
+      "description": "Play Menu --> My Magazines",
+      "message": "我的杂志"
+   },
+   "msg69": {
+      "description": "Play Menu --> My Movies & TV",
+      "message": "我的电影及电视"
+   },
+   "msg7": {
+      "description": "Main Menu --> Gmail",
+      "message": "Gmail"
+   },
+   "msg70": {
+      "description": "Play Menu --> My Music",
+      "message": "我的音乐"
+   },
+   "msg71": {
+      "description": "Play Menu --> My Devices",
+      "message": "我的设备"
+   },
+   "msg72": {
+      "description": "Youtube Menu --> Youtube",
+      "message": "YouTube"
+   },
+   "msg73": {
+      "description": "Youtube Menu --> Links",
+      "message": "链接"
+   },
+   "msg74": {
+      "description": "Youtube Menu --> Watch later",
+      "message": "稍后观看"
+   },
+   "msg75": {
+      "description": "Youtube Menu --> Playlists",
+      "message": "播放列表"
+   },
+   "msg76": {
+      "description": "News Menu --> News",
+      "message": "新闻"
+   },
+   "msg77": {
+      "description": "News Menu --> Links",
+      "message": "链接"
+   },
+   "msg78": {
+      "description": "News Menu --> News archive",
+      "message": "新闻归档"
+   },
+   "msg79": {
+      "description": "News Menu --> Google Reader",
+      "message": "Google 阅读器"
+   },
+   "msg8": {
+      "description": "Main Menu --> Drive",
+      "message": "云端硬盘"
+   },
+   "msg80": {
+      "description": "Gmail Menu --> Gmail",
+      "message": "Gmail"
+   },
+   "msg81": {
+      "description": "Gmail Menu --> All Mail",
+      "message": "所有邮件"
+   },
+   "msg82": {
+      "description": "Gmail Menu --> Inbox",
+      "message": "收件箱"
+   },
+   "msg83": {
+      "description": "Gmail Menu --> Unread",
+      "message": "未读"
+   },
+   "msg84": {
+      "description": "Gmail Menu --> Important",
+      "message": "重要邮件"
+   },
+   "msg85": {
+      "description": "Gmail Menu --> Drafts",
+      "message": "草稿"
+   },
+   "msg86": {
+      "description": "Gmail Menu --> Spam",
+      "message": "垃圾邮件"
+   },
+   "msg87": {
+      "description": "Gmail Menu --> Circles",
+      "message": "圈子"
+   },
+   "msg88": {
+      "description": "Gmail Menu --> Anywhere",
+      "message": "任何地方"
+   },
+   "msg89": {
+      "description": "Gmail Menu --> Sent Mail",
+      "message": "已发邮件"
+   },
+   "msg9": {
+      "description": "Main Menu --> Calendar",
+      "message": "日历"
+   },
+   "msg90": {
+      "description": "Gmail Menu --> Read",
+      "message": "已读"
+   },
+   "msg91": {
+      "description": "Gmail Menu --> Starred",
+      "message": "已加星标"
+   },
+   "msg92": {
+      "description": "Gmail Menu --> Attachments",
+      "message": "附件"
+   },
+   "msg93": {
+      "description": "Gmail Menu --> Trash",
+      "message": "回收站"
+   },
+   "msg94": {
+      "description": "Gmail Menu --> Chats",
+      "message": "聊天"
+   },
+   "msg95": {
+      "description": "Gmail Menu --> Links",
+      "message": "链接"
+   },
+   "msg96": {
+      "description": "Gmail Menu --> Compose",
+      "message": "写邮件"
+   },
+   "msg97": {
+      "description": "Gmail Menu --> Contacts",
+      "message": "联系人"
+   },
+   "msg98": {
+      "description": "Drive Menu --> Drive",
+      "message": "云端硬盘"
+   },
+   "msg99": {
+      "description": "Drive Menu --> Links",
+      "message": "链接"
+   },
+   "pmsg0": {
+      "description": "Search Menu --> Search google...",
+      "message": "搜索 Google..."
+   },
+   "pmsg1": {
+      "description": "Google+ Menu --> Search google plus...",
+      "message": "搜索 Google+ ..."
+   },
+   "pmsg2": {
+      "description": "Play Menu --> Search google play store...",
+      "message": "搜索 Google Play 商店..."
+   },
+   "pmsg3": {
+      "description": "News Menu --> Search google news...",
+      "message": "搜索 Google 新闻..."
+   },
+   "pmsg4": {
+      "description": "Gmail Menu --> Search gmail...",
+      "message": "搜索 Gmail..."
+   },
+   "pmsg5": {
+      "description": "Calendar Menu --> Search google calendar...",
+      "message": "搜索 Google 日历..."
+   },
+   "pmsg6": {
+      "description": "Translate Menu --> Enter text to translate here...",
+      "message": "在此输入要翻译的文本..."
+   },
+   "pmsg7": {
+      "description": "Maps Menu --> Search google maps...",
+      "message": "搜索 Google 地图..."
+   },
+   "pmsg8": {
+      "description": "Youtube Menu --> Search youtube...",
+      "message": "搜索 YouTube..."
+   },
+   "pmsg9": {
+      "description": "Drive Menu --> Search google drive...",
+      "message": "搜索 Google 云端硬盘..."
+   },
+   "tmsg0": {
+      "description": "Drive Menu --> New Document",
+      "message": "创建文档"
+   },
+   "tmsg1": {
+      "description": "Drive Menu --> New Presentation",
+      "message": "创建演示文稿"
+   },
+   "tmsg2": {
+      "description": "Drive Menu --> New Spreadsheet",
+      "message": "创建电子表格"
+   },
+   "tmsg3": {
+      "description": "Drive Menu --> New Form",
+      "message": "创建表单"
+   },
+   "tmsg4": {
+      "description": "Drive Menu --> New Table",
+      "message": "创建图标"
+   },
+   "tmsg5": {
+      "description": "Drive Menu --> New Drawing",
+      "message": "创建绘图"
+   },
+   "tmsg6": {
+      "description": "Drive Menu --> New Script",
+      "message": "创建脚本"
+   },
+   "tmsg7": {
+      "description": "Calendar Menu --> Click to Expand",
+      "message": "点击展开"
+   },
+   "tmsg8": {
+      "description": "Calendar Menu --> Click to Collapse",
+      "message": "点击关闭"
+   }
+}

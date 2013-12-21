@@ -1,0 +1,830 @@
+{
+   "chromeLangLocation": {
+      "description": "The main city where this language is used",
+      "message": "Brasília"
+   },
+   "extDescription": {
+      "description": "Extension Description",
+      "message": "Um menu para acessar todos os serviços preferidos do Google com um único clique."
+   },
+   "msg0": {
+      "description": "Main Menu --> Search",
+      "message": "Pesquisa"
+   },
+   "msg1": {
+      "description": "Main Menu --> Google+",
+      "message": "Google+"
+   },
+   "msg10": {
+      "description": "Main Menu --> More",
+      "message": "Mais"
+   },
+   "msg100": {
+      "description": "Drive Menu --> My Drive",
+      "message": "Meu Disco"
+   },
+   "msg101": {
+      "description": "Drive Menu --> Shared with me",
+      "message": "Compartilhado"
+   },
+   "msg102": {
+      "description": "Drive Menu --> Starred",
+      "message": "Com estrela"
+   },
+   "msg103": {
+      "description": "Drive Menu --> Recent",
+      "message": "Recentes"
+   },
+   "msg104": {
+      "description": "Drive Menu --> Activity",
+      "message": "Atividade"
+   },
+   "msg105": {
+      "description": "Drive Menu --> All items",
+      "message": "Todos os itens"
+   },
+   "msg106": {
+      "description": "Drive Menu --> Trash",
+      "message": "Lixeira"
+   },
+   "msg107": {
+      "description": "Drive Menu --> Templates",
+      "message": "Modelos"
+   },
+   "msg108": {
+      "description": "Calendar Menu --> Calendar",
+      "message": "Agenda"
+   },
+   "msg109": {
+      "description": "Calendar Menu --> Tasks",
+      "message": "Tarefas"
+   },
+   "msg11": {
+      "description": "Search Menu --> Google Search",
+      "message": "Pesquisa do Google"
+   },
+   "msg110": {
+      "description": "More Menu --> Adsense",
+      "message": "Adsense"
+   },
+   "msg111": {
+      "description": "More Menu --> Alerts",
+      "message": "Alertas"
+   },
+   "msg112": {
+      "description": "More Menu --> App Engine",
+      "message": "App Engine"
+   },
+   "msg113": {
+      "description": "More Menu --> Chrome Web Store",
+      "message": "Chrome Web Store"
+   },
+   "msg114": {
+      "description": "More Menu --> Developers",
+      "message": "Desenvolvedores"
+   },
+   "msg115": {
+      "description": "More Menu --> Offers",
+      "message": "Ofertas"
+   },
+   "msg116": {
+      "description": "More Menu --> Scholar",
+      "message": "Acadêmico"
+   },
+   "msg117": {
+      "description": "More Menu --> Url Shortener",
+      "message": "Encurtador de URL"
+   },
+   "msg118": {
+      "description": "More Menu --> Wallet",
+      "message": "Carteira Virtual"
+   },
+   "msg119": {
+      "description": "More Menu --> Dashboard",
+      "message": "Painel de Controle"
+   },
+   "msg12": {
+      "description": "Search Menu --> Web",
+      "message": "Web"
+   },
+   "msg120": {
+      "description": "More Menu --> Adwords",
+      "message": "Adwords"
+   },
+   "msg121": {
+      "description": "More Menu --> Analytics",
+      "message": "Analytics"
+   },
+   "msg122": {
+      "description": "More Menu --> Blogger",
+      "message": "Blogger"
+   },
+   "msg123": {
+      "description": "More Menu --> Groups",
+      "message": "Grupos"
+   },
+   "msg124": {
+      "description": "More Menu --> Finance",
+      "message": "Finanças"
+   },
+   "msg125": {
+      "description": "More Menu --> Picasa",
+      "message": "Picasa"
+   },
+   "msg126": {
+      "description": "More Menu --> Sites",
+      "message": "Sites"
+   },
+   "msg127": {
+      "description": "More Menu --> Voice",
+      "message": "Voice"
+   },
+   "msg128": {
+      "description": "More Menu --> Webmaster Tools",
+      "message": "Ferramentas para Webmasters"
+   },
+   "msg129": {
+      "description": "More Menu --> Google Settings",
+      "message": "Contas"
+   },
+   "msg13": {
+      "description": "Search Menu --> Videos",
+      "message": "Vídeos"
+   },
+   "msg130": {
+      "description": "More Menu --> About",
+      "message": "Sobre"
+   },
+   "msg131": {
+      "description": "About Menu --> About",
+      "message": "Sobre"
+   },
+   "msg132": {
+      "description": "About Menu --> thanks for installing this extension!",
+      "message": "Obrigado por instalar esta extensão!"
+   },
+   "msg133": {
+      "description": "About Menu --> Links",
+      "message": "Links"
+   },
+   "msg134": {
+      "description": "About Menu --> Donate",
+      "message": "Contribua"
+   },
+   "msg135": {
+      "description": "About Menu --> Rate & review",
+      "message": "Avaliar e Revisar"
+   },
+   "msg136": {
+      "description": "About Menu --> Give feedback",
+      "message": "Dê Retorno"
+   },
+   "msg137": {
+      "description": "About Menu --> Contact me",
+      "message": "Entre em Contato"
+   },
+   "msg138": {
+      "description": "About Menu --> Email",
+      "message": "E-mail"
+   },
+   "msg139": {
+      "description": "About Menu --> Google+",
+      "message": "Google+"
+   },
+   "msg14": {
+      "description": "Search Menu --> Shopping",
+      "message": "Compras"
+   },
+   "msg140": {
+      "description": "About Menu --> Thanks to",
+      "message": "Agradecimentos"
+   },
+   "msg141": {
+      "description": "About Menu --> The google icons in this extension are copyrighted by google",
+      "message": "Os ícones do Google nesta extensão estão protegidas por copyright da Google."
+   },
+   "msg142": {
+      "description": "About Menu --> Help translating",
+      "message": "Ajude a traduzir"
+   },
+   "msg143": {
+      "description": "About Menu --> Go Back",
+      "message": "Volte"
+   },
+   "msg144": {
+      "description": "Main Menu --> Reader",
+      "message": "Reader"
+   },
+   "msg145": {
+      "description": "Reader Menu --> Reader",
+      "message": "Google Reader"
+   },
+   "msg146": {
+      "description": "More Menu --> Settings",
+      "message": "Configurações"
+   },
+   "msg147": {
+      "description": "Settings Menu --> Go Back",
+      "message": "Volte"
+   },
+   "msg148": {
+      "description": "Settings Menu --> Settings",
+      "message": "Configurações"
+   },
+   "msg149": {
+      "description": "Settings Menu Main --> Generic",
+      "message": "Geral"
+   },
+   "msg15": {
+      "description": "Search Menu --> Places",
+      "message": "Lugares"
+   },
+   "msg150": {
+      "description": "Settings Menu Main --> Translate",
+      "message": "Tradutor"
+   },
+   "msg151": {
+      "description": "Settings Menu Main --> Maps",
+      "message": "Mapas"
+   },
+   "msg152": {
+      "description": "Settings Menu Main --> News",
+      "message": "Notícias"
+   },
+   "msg153": {
+      "description": "Settings Menu Main --> Calendar",
+      "message": "Agenda"
+   },
+   "msg154": {
+      "description": "Settings Menu Main --> Drive",
+      "message": "Disco"
+   },
+   "msg155": {
+      "description": "Settings Menu Generic --> Hide the black bar on all google websites",
+      "message": "Ocultar a barra preta superior em todos os sites do Google"
+   },
+   "msg156": {
+      "description": "Settings Menu Generic --> Show unread counts for Google+, Gmail and Reader",
+      "message": "Mostrar contador para mensagens não lidas do Google+, Gmail e Reader"
+   },
+   "msg157": {
+      "description": "Settings Menu Translate --> Source language",
+      "message": "Idioma de Origem"
+   },
+   "msg158": {
+      "description": "Settings Menu Translate--> Target language",
+      "message": "Idioma de Destino"
+   },
+   "msg159": {
+      "description": "Settings Menu Maps--> Map view",
+      "message": "Visão do Mapa"
+   },
+   "msg16": {
+      "description": "Search Menu --> Discussions",
+      "message": "Discussões"
+   },
+   "msg160": {
+      "description": "Settings Menu Maps--> Show traffic",
+      "message": "Mostrar Tráfego"
+   },
+   "msg161": {
+      "description": "Settings Menu Maps --> Default location",
+      "message": "Local Padrão"
+   },
+   "msg162": {
+      "description": "Settings Menu News --> News edition",
+      "message": "Edição das Notícias"
+   },
+   "msg163": {
+      "description": "Settings Menu News --> Image visibility",
+      "message": "Visibilidade da Imagem"
+   },
+   "msg164": {
+      "description": "Settings Menu News --> Number of items to display",
+      "message": "Número de Itens Exibidos"
+   },
+   "msg165": {
+      "description": "Settings Menu News --> Hide bottom links",
+      "message": "Ocultar Links Inferiores"
+   },
+   "msg166": {
+      "description": "Settings Menu Calendar --> Show empty days",
+      "message": "Mostrar dias vazios"
+   },
+   "msg167": {
+      "description": "Settings Menu Calendar --> Expand the tasks panel by default",
+      "message": "Expandir o painel de tarefas por padrão"
+   },
+   "msg168": {
+      "description": "Settings Menu Drive --> View preference",
+      "message": "Ver Preferências"
+   },
+   "msg169": {
+      "description": "Settings Menu Translate Targetlanguage --> Chrome language",
+      "message": "Idioma do Chrome"
+   },
+   "msg17": {
+      "description": "Search Menu --> Patents",
+      "message": "Patentes"
+   },
+   "msg170": {
+      "description": "Settings Menu Translate Sourcelanguage --> Auto detect",
+      "message": "Automático"
+   },
+   "msg171": {
+      "description": "Settings Menu Maps Mapview --> Roadmap",
+      "message": "Rodoviário"
+   },
+   "msg172": {
+      "description": "Settings Menu Maps Mapview --> Terrain",
+      "message": "Terreno"
+   },
+   "msg173": {
+      "description": "Settings Menu Maps Mapview --> Satellite",
+      "message": "Satélite"
+   },
+   "msg174": {
+      "description": "Settings Menu Maps Mapview --> Hybrid",
+      "message": "Híbrido"
+   },
+   "msg175": {
+      "description": "Settings Menu News Imagevisibility --> Show headline images only",
+      "message": "Mostrar Somente Imagem da Manchete"
+   },
+   "msg176": {
+      "description": "Settings Menu News Imagevisibility --> Show all images",
+      "message": "Exibir Todas Imagens"
+   },
+   "msg177": {
+      "description": "Settings Menu News Imagevisibility --> Hide all images",
+      "message": "Ocultar Todas Imagens"
+   },
+   "msg178": {
+      "description": "Settings Menu Drive Viewpreference --> Opened by me",
+      "message": "Aberto por mim"
+   },
+   "msg179": {
+      "description": "Settings Menu Drive Viewpreference --> Owned by me",
+      "message": "Possuído por mim"
+   },
+   "msg18": {
+      "description": "Search Menu --> Flights",
+      "message": "Voos"
+   },
+   "msg180": {
+      "description": "Settings Menu Drive Viewpreference --> Starred",
+      "message": "Com estrela"
+   },
+   "msg181": {
+      "description": "Settings Menu Main --> Gmail",
+      "message": "Gmail"
+   },
+   "msg182": {
+      "description": "Settings Menu Gmail --> Open compose in a popup/panel",
+      "message": "Abrir composição de email em um painel pop-up"
+   },
+   "msg19": {
+      "description": "Search Menu --> Images",
+      "message": "Imagens"
+   },
+   "msg2": {
+      "description": "Main Menu --> Translate",
+      "message": "Tradutor"
+   },
+   "msg20": {
+      "description": "Search Menu --> News",
+      "message": "Notícias"
+   },
+   "msg21": {
+      "description": "Search Menu --> Books",
+      "message": "Livros"
+   },
+   "msg22": {
+      "description": "Search Menu --> Blogs",
+      "message": "Blogs"
+   },
+   "msg23": {
+      "description": "Search Menu --> Recipes",
+      "message": "Receitas"
+   },
+   "msg24": {
+      "description": "Search Menu --> Applications",
+      "message": "Aplicações"
+   },
+   "msg25": {
+      "description": "Search Menu --> Maps",
+      "message": "Mapas"
+   },
+   "msg26": {
+      "description": "Search Menu --> Links",
+      "message": "Links"
+   },
+   "msg27": {
+      "description": "Search Menu --> Trends",
+      "message": "Tendências"
+   },
+   "msg28": {
+      "description": "Search Menu --> Custom Search",
+      "message": "Pesq. Personalizada"
+   },
+   "msg29": {
+      "description": "Google+ Menu --> Google Plus",
+      "message": "Google Plus"
+   },
+   "msg3": {
+      "description": "Main Menu --> Maps",
+      "message": "Mapas"
+   },
+   "msg30": {
+      "description": "Google+ Menu --> Everywhere",
+      "message": "Todas"
+   },
+   "msg31": {
+      "description": "Google+ Menu --> Communities",
+      "message": "Communities"
+   },
+   "msg32": {
+      "description": "Google+ Menu --> Events",
+      "message": "Eventos"
+   },
+   "msg33": {
+      "description": "Google+ Menu --> Posts",
+      "message": "Postagens"
+   },
+   "msg34": {
+      "description": "Google+ Menu --> Hangouts",
+      "message": "Hangouts"
+   },
+   "msg35": {
+      "description": "Google+ Menu --> People and Pages",
+      "message": "Pessoas e Páginas"
+   },
+   "msg36": {
+      "description": "Google+ Menu --> Links",
+      "message": "Links"
+   },
+   "msg37": {
+      "description": "Google+ Menu --> Home",
+      "message": "Início"
+   },
+   "msg38": {
+      "description": "Google+ Menu --> Pages",
+      "message": "Páginas"
+   },
+   "msg39": {
+      "description": "Google+ Menu --> Profile",
+      "message": "Perfil"
+   },
+   "msg4": {
+      "description": "Main Menu --> Play",
+      "message": "Play"
+   },
+   "msg40": {
+      "description": "Google+ Menu --> Events",
+      "message": "Eventos"
+   },
+   "msg41": {
+      "description": "Google+ Menu --> Explore",
+      "message": "Explorar"
+   },
+   "msg42": {
+      "description": "Google+ Menu --> Hangouts",
+      "message": "Hangouts"
+   },
+   "msg43": {
+      "description": "Google+ Menu --> Local",
+      "message": "Local"
+   },
+   "msg44": {
+      "description": "Google+ Menu --> Photos",
+      "message": "Fotos"
+   },
+   "msg45": {
+      "description": "Google+ Menu --> Circles",
+      "message": "Círculos"
+   },
+   "msg46": {
+      "description": "Google+ Menu --> Games",
+      "message": "Jogos"
+   },
+   "msg47": {
+      "description": "Translate Menu --> Translate",
+      "message": "Tradutor"
+   },
+   "msg48": {
+      "description": "Translate Menu --> Links",
+      "message": "Links"
+   },
+   "msg49": {
+      "description": "Translate Menu --> Transliteration",
+      "message": "Translator Toolkit"
+   },
+   "msg5": {
+      "description": "Main Menu --> Youtube",
+      "message": "YouTube"
+   },
+   "msg50": {
+      "description": "Translate Menu --> Transliteration",
+      "message": "Transliteração"
+   },
+   "msg51": {
+      "description": "Maps Menu --> Maps",
+      "message": "Mapas"
+   },
+   "msg52": {
+      "description": "Maps Menu --> Links",
+      "message": "Links"
+   },
+   "msg53": {
+      "description": "Maps Menu --> Latitude",
+      "message": "Latitude"
+   },
+   "msg54": {
+      "description": "Maps Menu --> Mapmaker",
+      "message": "Map Maker"
+   },
+   "msg55": {
+      "description": "Play Menu --> Google Play Store",
+      "message": "Google Play Store"
+   },
+   "msg56": {
+      "description": "Play Menu --> Apps",
+      "message": "Aplicativos"
+   },
+   "msg57": {
+      "description": "Play Menu --> Books",
+      "message": "Livros"
+   },
+   "msg58": {
+      "description": "Play Menu --> Magazines",
+      "message": "Revistas"
+   },
+   "msg59": {
+      "description": "Play Menu --> Movies & TV",
+      "message": "Filmes & TV"
+   },
+   "msg6": {
+      "description": "Main Menu --> News",
+      "message": "Notícias"
+   },
+   "msg60": {
+      "description": "Play Menu --> Music",
+      "message": "Músicas"
+   },
+   "msg61": {
+      "description": "Play Menu --> Devices",
+      "message": "Dispositivos"
+   },
+   "msg62": {
+      "description": "Play Menu --> Play Store Links",
+      "message": "Links"
+   },
+   "msg63": {
+      "description": "Play Menu --> Orders",
+      "message": "Pedidos"
+   },
+   "msg64": {
+      "description": "Play Menu --> Settings",
+      "message": "Configurações"
+   },
+   "msg65": {
+      "description": "Play Menu --> My Content",
+      "message": "Meu Conteúdo"
+   },
+   "msg66": {
+      "description": "Play Menu --> My Apps",
+      "message": "Meus Aplicativos"
+   },
+   "msg67": {
+      "description": "Play Menu --> My Books",
+      "message": "Meus Livros"
+   },
+   "msg68": {
+      "description": "Play Menu --> My Magazines",
+      "message": "Minhas Revistas"
+   },
+   "msg69": {
+      "description": "Play Menu --> My Movies & TV",
+      "message": "Meus Filmes & TV"
+   },
+   "msg7": {
+      "description": "Main Menu --> Gmail",
+      "message": "Gmail"
+   },
+   "msg70": {
+      "description": "Play Menu --> My Music",
+      "message": "Minhas Músicas"
+   },
+   "msg71": {
+      "description": "Play Menu --> My Devices",
+      "message": "Meus Dispositivos"
+   },
+   "msg72": {
+      "description": "Youtube Menu --> Youtube",
+      "message": "YouTube"
+   },
+   "msg73": {
+      "description": "Youtube Menu --> Links",
+      "message": "Links"
+   },
+   "msg74": {
+      "description": "Youtube Menu --> Watch later",
+      "message": "Assistir Mais Tarde"
+   },
+   "msg75": {
+      "description": "Youtube Menu --> Playlists",
+      "message": "Listas de Reprodução"
+   },
+   "msg76": {
+      "description": "News Menu --> News",
+      "message": "Notícias"
+   },
+   "msg77": {
+      "description": "News Menu --> Links",
+      "message": "Links"
+   },
+   "msg78": {
+      "description": "News Menu --> News archive",
+      "message": "Últimas Notícias"
+   },
+   "msg79": {
+      "description": "News Menu --> Google Reader",
+      "message": "Google Reader"
+   },
+   "msg8": {
+      "description": "Main Menu --> Drive",
+      "message": "Disco"
+   },
+   "msg80": {
+      "description": "Gmail Menu --> Gmail",
+      "message": "Gmail"
+   },
+   "msg81": {
+      "description": "Gmail Menu --> All Mail",
+      "message": "Todos E-mails"
+   },
+   "msg82": {
+      "description": "Gmail Menu --> Inbox",
+      "message": "Entrada"
+   },
+   "msg83": {
+      "description": "Gmail Menu --> Unread",
+      "message": "Não Lidos"
+   },
+   "msg84": {
+      "description": "Gmail Menu --> Important",
+      "message": "Importantes"
+   },
+   "msg85": {
+      "description": "Gmail Menu --> Drafts",
+      "message": "Rascunhos"
+   },
+   "msg86": {
+      "description": "Gmail Menu --> Spam",
+      "message": "Spam"
+   },
+   "msg87": {
+      "description": "Gmail Menu --> Circles",
+      "message": "Círculos"
+   },
+   "msg88": {
+      "description": "Gmail Menu --> Anywhere",
+      "message": "Qualquer E-mail"
+   },
+   "msg89": {
+      "description": "Gmail Menu --> Sent Mail",
+      "message": "Enviados"
+   },
+   "msg9": {
+      "description": "Main Menu --> Calendar",
+      "message": "Agenda"
+   },
+   "msg90": {
+      "description": "Gmail Menu --> Read",
+      "message": "Lidos"
+   },
+   "msg91": {
+      "description": "Gmail Menu --> Starred",
+      "message": "Com estrela"
+   },
+   "msg92": {
+      "description": "Gmail Menu --> Attachments",
+      "message": "Com anexo"
+   },
+   "msg93": {
+      "description": "Gmail Menu --> Trash",
+      "message": "Lixeira"
+   },
+   "msg94": {
+      "description": "Gmail Menu --> Chats",
+      "message": "Bate-papos"
+   },
+   "msg95": {
+      "description": "Gmail Menu --> Links",
+      "message": "Links"
+   },
+   "msg96": {
+      "description": "Gmail Menu --> Compose",
+      "message": "Escrever"
+   },
+   "msg97": {
+      "description": "Gmail Menu --> Contacts",
+      "message": "Contatos"
+   },
+   "msg98": {
+      "description": "Drive Menu --> Drive",
+      "message": "Disco"
+   },
+   "msg99": {
+      "description": "Drive Menu --> Links",
+      "message": "Links"
+   },
+   "pmsg0": {
+      "description": "Search Menu --> Search google...",
+      "message": "Pesquisar no Google..."
+   },
+   "pmsg1": {
+      "description": "Google+ Menu --> Search google plus...",
+      "message": "Pesquisar no Google+..."
+   },
+   "pmsg10": {
+      "description": "Reader Menu --> Search google reader...",
+      "message": "Pesquisar no Google Reader..."
+   },
+   "pmsg2": {
+      "description": "Play Menu --> Search google play store...",
+      "message": "Pesquisar no Google Play Store..."
+   },
+   "pmsg3": {
+      "description": "News Menu --> Search google news...",
+      "message": "Pesquisar no Google Notícias..."
+   },
+   "pmsg4": {
+      "description": "Gmail Menu --> Search gmail...",
+      "message": "Pesquisar no Gmail..."
+   },
+   "pmsg5": {
+      "description": "Calendar Menu --> Search google calendar...",
+      "message": "Pesquisar no Google Agenda..."
+   },
+   "pmsg6": {
+      "description": "Translate Menu --> Enter text to translate here...",
+      "message": "Digite o texto para traduzir..."
+   },
+   "pmsg7": {
+      "description": "Maps Menu --> Search google maps...",
+      "message": "Pesquisar no Google Mapas..."
+   },
+   "pmsg8": {
+      "description": "Youtube Menu --> Search youtube...",
+      "message": "Pesquisar no YouTube..."
+   },
+   "pmsg9": {
+      "description": "Drive Menu --> Search google drive...",
+      "message": "Pesquisar no Google Drive..."
+   },
+   "tmsg0": {
+      "description": "Drive Menu --> New Document",
+      "message": "Novo Documento"
+   },
+   "tmsg1": {
+      "description": "Drive Menu --> New Presentation",
+      "message": "Nova Apresentação"
+   },
+   "tmsg10": {
+      "description": "Reader Switch --> Switch to News",
+      "message": "Mudar para as Notícias"
+   },
+   "tmsg2": {
+      "description": "Drive Menu --> New Spreadsheet",
+      "message": "Nova Planilha"
+   },
+   "tmsg3": {
+      "description": "Drive Menu --> New Form",
+      "message": "Novo Formulário"
+   },
+   "tmsg4": {
+      "description": "Drive Menu --> New Table",
+      "message": "Nova Tabela"
+   },
+   "tmsg5": {
+      "description": "Drive Menu --> New Drawing",
+      "message": "Novo Desenho"
+   },
+   "tmsg6": {
+      "description": "Drive Menu --> New Script",
+      "message": "Novo Script"
+   },
+   "tmsg7": {
+      "description": "Calendar Menu --> Click to Expand",
+      "message": "Clique para Expandir"
+   },
+   "tmsg8": {
+      "description": "Calendar Menu --> Click to Collapse",
+      "message": "Clique para Recolher"
+   },
+   "tmsg9": {
+      "description": "Reader Switch --> Switch to Reader",
+      "message": "Mudar para o Reader"
+   }
+}

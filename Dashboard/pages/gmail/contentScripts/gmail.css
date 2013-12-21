@@ -1,0 +1,372 @@
+/* main elements */
+	/* change scrollbars */
+	::-webkit-scrollbar {
+		height: 16px;
+		width: 12px;
+		}
+	::-webkit-scrollbar-button {
+		height: 0;
+		width: 0;
+		}
+	::-webkit-scrollbar-button:start:decrement,::-webkit-scrollbar-button:end:increment {
+		display: block;
+		}
+	::-webkit-scrollbar-button:vertical:start:increment,::-webkit-scrollbar-button:vertical:end:decrement {
+		display: none;
+		}
+	::-webkit-scrollbar-track:vertical,::-webkit-scrollbar-track:horizontal,::-webkit-scrollbar-thumb:vertical,::-webkit-scrollbar-thumb:horizontal,::-webkit-scrollbar-track:vertical, ::-webkit-scrollbar-track:horizontal, ::-webkit-scrollbar-thumb:vertical, ::-webkit-scrollbar-thumb:horizontal {
+		border-style: solid;
+		border-color: transparent;
+		}
+	::-webkit-scrollbar-thumb {
+		-webkit-box-shadow: inset 1px 1px 0 rgba(0,0,0,.1),inset 0 -1px 0 rgba(0,0,0,.07);
+		background-clip: padding-box;
+		background-color: rgba(0,0,0,.2);
+		min-height: 28px;
+		padding-top: 100px;
+		}
+	::-webkit-scrollbar-thumb:hover {
+		-webkit-box-shadow: inset 1px 1px 1px rgba(0,0,0,.25);
+		background-color: rgba(0,0,0,.4);
+		}
+	::-webkit-scrollbar-thumb:active {
+		-webkit-box-shadow: inset 1px 1px 3px rgba(0,0,0,.35);
+		background-color: rgba(0,0,0,.5);
+		}
+	::-webkit-scrollbar-thumb:vertical {
+		border-width: 0;
+		border-left-width: 0px;
+		}
+	::-webkit-scrollbar-thumb:horizontal {
+		border-width: 0;
+		border-top-width: 5px;
+		}
+	::-webkit-scrollbar-track:vertical {
+		border-left-width: 1px;
+		border-right-width: 1px;
+		}
+	::-webkit-scrollbar-track:horizontal {
+		border-bottom: 1px;
+		border-top: 6px;
+		}
+	::-webkit-scrollbar-thumb:vertical {
+		border-width: 0;
+		border-left-width: 1px;
+		border-right-width: 1px;
+		}
+	::-webkit-scrollbar-thumb:horizontal {
+		border-width: 0;
+		border-bottom: 1px;
+		border-top: 6px;
+		}
+	::-webkit-scrollbar-track:hover {
+		-webkit-box-shadow: inset 1px 0 0 rgba(0,0,0,.1);
+		background-color: rgba(0,0,0,.05);
+		}
+	::-webkit-scrollbar-track:active {
+		-webkit-box-shadow: inset 1px 0 0 rgba(0,0,0,.14),inset -1px -1px 0 rgba(0,0,0,.07);
+		background-color: rgba(0,0,0,.05);
+		}
+	/* body */
+	body {
+		height: auto !important;
+		min-height: auto !important;
+		/* change visibility of the body to visible, so the gadget will be displayed */
+		visibility: visible !important;
+		/* disable scrolling for the body */
+		overflow-y: auto !important;
+		}
+		
+	/* googlebar */
+	#gb, #nav {
+		/* hide the google bar */
+		display: none !important;
+		}
+
+	/* loading transition elements */
+	#apploadingdiv, #viewsloadingdiv  {
+		/* disable loading transition */
+		display: none !important;
+		}
+	
+/* inbox view */
+	/* navbar */
+	
+		/* navbar container */
+		#tltbt {
+			border-bottom: 1px solid #E5E5E5 !important;
+			background: #fff !important;
+			-webkit-border-image: none !important;
+			border-top: 0px !important;
+			/* move the navbar below the searchbox that will be positioned at the top (see "searchbox") */
+			top: 44px !important;
+			}			
+		/* bottom navbar */
+		#tltbb {
+			/* hide the account chooser, because it is also available in the main menu */
+			display: none !important;
+			}
+		#views>div:first-child>div {
+			pointer-events: none;
+			}
+		#views>div:first-child>div>div>div {
+			pointer-events: all;
+			}
+
+		
+		
+	/* searchbox */
+	
+		/* searchBoxContainer */
+		#tl_ form {
+			border-bottom: 1px solid #E5E5E5 !important;
+			box-sizing: border-box !important;
+			height: 44px !important;
+			background-color: whiteSmoke !important;
+			position: fixed !important;
+			background-image: none !important;
+			/* change position of the searchbox to the top */
+			top: 0px !important;
+			/* always show the search box */
+			display: block !important;
+			/* change the padding */
+			padding: 8px !important;
+			}
+		/* searchbox search button */
+		#tl_ form>div:first-child, #tl_ form>div:last-child  {
+			/* hide the search button */
+			display: none !important;
+			}
+		/* searchbox input container */
+		#tl_ form>div:nth-child(2) {
+			display: block !important;
+			}
+		/* searchbox search button */
+		#searchButton  {
+			background-image: url("https://www.gstatic.com/ui/v1/button/search-white.png"),-webkit-linear-gradient(top,#4D90FE,#4787ED) !important;
+			background-repeat: no-repeat !important;
+			background-position: center center !important;
+			-webkit-background-size: auto !Important;
+			border-radius: 2px !important;
+			border-top-left-radius: 0px !important;
+			border-bottom-left-radius: 0px !important;
+			width: 30px !important;
+			position: absolute !important;
+			top: 0px !important;
+			right: 0px !important;
+			border: 1px solid #3079ED !important;
+			color: #fff !important;
+			-webkit-user-select: none !important;
+			height: 27px !important;
+			font-size: 0px !important;
+			display: inline-block !important;
+			margin: 0 !important;
+			}
+		#searchButton:hover {
+			background-image: url("https://www.gstatic.com/ui/v1/button/search-white.png"),-webkit-linear-gradient(top,#4D90FE,#357AE8) !important;
+			border-color: #2F5BB7 !important;
+			}
+		#searchButton:active {
+			box-shadow: inset 0 1px 2px rgba(0, 0, 0, 0.3) !important;
+			}
+		/* searchbox input field */
+		#tl_ form input {
+			background: url("chrome-extension://__MSG_@@extension_id__/images/sprite-25.png") repeat-y right -25px #fff !important;
+			border: 1px solid #D9D9D9 !important;
+			border-top: 1px solid silver !important;
+			color: #222 !important;
+			display: inline-block !important;
+			border-radius: 1px !important;
+			height: 27px !important;
+			line-height: 25px !important;
+			outline: none !important;
+			padding-left: 4px !important;
+			vertical-align: top !important;
+			width: 100% !important;
+			top: 0px !important;
+			box-sizing: border-box !important;
+			}
+	
+	/* email list */
+		
+		/* email list main container */
+		#tl_ >div:first-child {
+			/* add the scroll functionality part A */
+			position: fixed !important;
+			top: 0px !important;
+			width: 100% !important;
+			height: 100% !important;
+			padding-top: 88px !important;
+			box-sizing: border-box !important;
+			pointer-events: none !important;
+			}
+		/* allow interaction with the toolbar */
+		#tl_ >div:first-child * {
+			pointer-events: all !important;
+			}
+		/* email list sub container */
+		#tl_>div:first-child>div:first-child {
+			/* add the scroll functionality part B */
+			box-sizing: border-box !important;
+			height: 100% !important;
+			overflow-y: auto !important;			
+			background: -webkit-linear-gradient(white 30%, rgba(255, 255, 255, 0)), -webkit-linear-gradient(rgba(255, 255, 255, 0), white 70%) 0 100%, -webkit-radial-gradient(50% 0, farthest-side, rgba(0, 0, 0, .2), transparent), -webkit-radial-gradient(50% 100%,farthest-side, rgba(0, 0, 0, .2), transparent) 0 100% !important;
+			background-repeat: no-repeat !important;
+			background-color: white !important;
+			background-size: 100% 20px, 100% 20px, 100% 7px, 100% 7px !important;
+			background-attachment: local, local, scroll, scroll !important;
+			}		
+	
+/* compose view */
+
+	/* navbars */
+	
+		/* top navbar */
+		#cvtbt {
+			/* change navbar color to grey */
+			background: whiteSmoke !important;
+			/* add bottom border to the nav bar */
+			border-bottom: 1px solid #E5E5E5 !important;
+			}
+		/* bottom navbar */
+		#cvtbb {
+			/* hide the bottom navbar */
+			display: none !important;
+			}			
+	
+	/* compose content */
+			
+		/* compose content container */
+		#co_ {
+			/* add the scroll functionality part A */
+			position: fixed !important;
+			top: 44px !important;
+			padding-top: 44px !important;
+			box-sizing: border-box !important;
+			}
+		/* compoase sub container */
+		#co_>div:first-child {
+			margin-top: -44px !important;
+			/* add the scroll functionality part B */
+			height: 100% !important;
+			overflow-y: auto !important;			
+			background: -webkit-linear-gradient(white 30%, rgba(255, 255, 255, 0)), -webkit-linear-gradient(rgba(255, 255, 255, 0), white 70%) 0 100%, -webkit-radial-gradient(50% 0, farthest-side, rgba(0, 0, 0, .2), transparent), -webkit-radial-gradient(50% 100%,farthest-side, rgba(0, 0, 0, .2), transparent) 0 100% !important;
+			background-repeat: no-repeat !important;
+			background-color: white !important;
+			background-size: 100% 20px, 100% 20px, 100% 7px, 100% 7px !important;
+			background-attachment: local, local, scroll, scroll !important;
+			}
+		
+/* main menu view */
+
+	/* top navbar */
+	#mutbt {
+		/* change background of and add border to the top navbar */
+		background: #fff !important;
+		border-bottom: 1px solid #E5E5E5 !important;
+		}
+	/* bottom navbar */
+	#mutbb {
+		/* hide the bottom navbar */
+		display: none !important;
+		}
+	/* main menu content container */
+	#mn_ {
+		/* add the scroll functionality part A */
+		position: fixed !important;
+		top: 0 !important;
+		padding-top: 44px !important;
+		box-sizing: border-box !important;
+		/* change backgroundcolor */
+		background: whiteSmoke !important;
+		}
+	/* main menu sub container */
+	#mn_>div:nth-child(2) {
+		/* add the scroll functionality part B */
+		height: 100% !important;
+		overflow-y: auto !important;
+		}
+	/* right button container */
+	#mutbt>.yc {
+		/* hide right button container (the settings icon) */
+		display: none !important;
+		}
+
+/* move & label view */
+	/* navbar */
+		/* navbar container */
+		#lbttb {
+			/* change navbar color to grey */
+			background: whiteSmoke !important;
+			/* add bottom border to the nav bar */
+			border-bottom: 1px solid #E5E5E5 !important;
+			}
+		
+
+/* message view */		
+	/* toolbar container */
+	#tlb .Xo {
+		/* allow the bottom navbar to appear at the top */
+		z-index: 0 !important;
+		}
+	/* bottom navbar */
+	#cv__cntbb {
+		background: #fff !important;
+		border-bottom: 1px solid #E5E5E5 !important;
+		position: fixed !important;
+		top: 0px !important;
+		}
+	#cv__cntbb>.xc {
+		display: none !important;
+		}
+	#cv_ {
+		position:fixed !important;
+		top: 0px !important;
+		background: whiteSmoke !important;
+		}
+	#cv_>div:nth-child(2) {
+		padding-top: 44px !important;
+		width: 100% !important;
+		height: 100% !important;
+		box-sizing: border-box !important;
+		}
+	#cv_>div:nth-child(2)>div {
+		height: 100% !important;
+		overflow-y: scroll !important;
+		}
+	/* message container */
+	#cv_>div:nth-child(2)>div>div>div:first-child {
+		/* add horizontal scrollbar if needed */
+		overflow-x: auto !important;
+		width: 100% !important;
+		}
+	
+input {
+	font: 13px arial,sans-serif !important;
+	}
+	
+/* email rows */
+	/* email row container */
+	.Jn {
+		background: transparent !important;
+		}
+	/* all */
+	.fj {
+		margin-top: 0px !important;
+		border-bottom: 1px solid #E5E5E5 !important;
+		}
+	
+	/* unread */
+	.fj.wn{
+		background: transparent !Important;
+		}
+	
+	/* read */
+	.fj.xn {
+		background: rgba(0,0,0,.03) !important;
+		}		
+	
+	/* selected emails */
+	.fj.bp {
+		background: rgba(255, 255, 0, 0.15) !important;
+		}

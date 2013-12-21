@@ -1,0 +1,44 @@
+<html>
+  <head>
+    <link rel="stylesheet" href="/main.css">
+    <script src="/main.js"></script>
+    <script src="index.js"></script>
+    <style>
+      .card h3 {
+        color: rgb(22, 99, 214);
+        cursor: pointer;
+        font-size: 16px;
+        padding-bottom: 4px;
+      }
+      .card .origin {
+        color: green;
+        cursor: pointer;
+      }
+      .card .action::before {
+        content: " - ";
+        text-decoration: none;
+      }
+      .card .action {
+        cursor: pointer;
+        color: #555;
+        /*display: none;*/
+      }
+      .card:hover .action {
+        display: inline;
+      }
+      .card .action:hover, .card .origin:hover, .card h3:hover {
+        text-decoration: underline;
+      }
+      .card article {
+        color: rgb(85, 85, 85);
+        padding-top: 4px;
+      }
+      .card {
+        padding: 4px 6px;
+        box-sizing: border-box;
+      }
+    </style>
+  </head>
+  <body class="loading">
+  </body>
+</html>

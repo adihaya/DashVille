@@ -1,0 +1,6 @@
+#playPage .buttonList li {
+height: 41px;
+}
+#playPage .content {
+overflow-y: hidden;
+}

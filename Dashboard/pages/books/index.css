@@ -1,0 +1,21 @@
+#booksPage .card header {
+  height: 80px;
+  padding-left: 80px;
+}
+#booksPage .card .imageContainer {
+  margin-left: -80px;
+  float: left;
+  background-color: whiteSmoke;
+  display: table;
+  height: 80px;
+  width: 80px;
+}
+#booksPage .card .imageContainer>div {
+  display: table-cell;
+  vertical-align: middle;
+  text-align: center;	
+}
+#booksPage .links {
+  font-size: 13px;
+  padding: 0px 8px;
+}
