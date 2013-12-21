@@ -1,0 +1,22 @@
+{
+  "manifest_version": 2,
+
+  "name": "Dashville - The Menu Dashboard",
+  "description": "A nice little dashboard sitting next to your browser bar, exclusively for Google Chrome.",
+  "version": "0.5",
+// beta mode!
+  "browser_action": {
+    "default_icon": "icon.png",
+    "default_popup": "popup.html"
+  },
+     "icons" :  {
+          "16":"icon.png",
+          "32":"icon.png",
+          "64":"icon.png",
+          "128":"icon.png"
+     },
+  "permissions": [
+    
+     
+  ]
+}
