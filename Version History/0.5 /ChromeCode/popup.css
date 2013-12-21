@@ -1,0 +1,39 @@
+body {
+        min-width: 500px;
+              min-height:1000px;
+        overflow-x: hidden;
+              background-image:url(outerspace.jpg);
+          color:#00EEFF;
+      }
+
+      img {
+        margin: 5px;
+        border: 2px solid black;
+        vertical-align: middle;
+        width: 75px;
+        height: 75px;
+      }
+     .headtitle {
+     /* add this to any html file that links this css file:
+     
+     <script>var __adobewebfontsappname__ = "code"</script>
+<script src="http://use.edgefonts.net/nixie-one:n4:all.js"></script> 
+     
+     */
+              font-family: nixie-one;
+          text-align:center;
+              align-self:center;
+          color:#A6F1F5;
+}
+#nowtime {
+     text-align:center;
+     /* html rel for fonts: <script>var __adobewebfontsappname__ = "code"</script>
+<script src="http://use.edgefonts.net/annie-use-your-telescope:n4:all;nixie-one:n4:all.js"></script> */
+     font-family: annie-use-your-telescope;
+     color:#00C3FF;
+     font-size:70pt
+}
+
+.fontix {
+     font-family: josefin-sans;
+}
