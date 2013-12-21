@@ -6,10 +6,11 @@ DashVille - The never-ending dashboard in your menu bar! Exclusively available f
 #HOW TO INSTALL
 Download the .zip file for this git repo.
 Unzip it.
+Make sure there is a folder caled ChromeCode inside the folder that comes out.
 Open Google Chrome. 
 Go to the Chrome Extensions page (type "chrome://extensions" in you browser bar, hit enter after)
 Click the button that says "load unpacked extension".
-Select the unzipped folder you just downloaded from this git repo.
+Select the ChromeCode folder, which is inside the unzipped folder you just downloaded from this git repo.
 Hit enter.
 DashVille 0.5 BETA is installed!
 
